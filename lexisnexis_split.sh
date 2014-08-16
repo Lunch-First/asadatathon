@@ -40,3 +40,10 @@ mkdir MichaelBrown_1_4
 csplit -f MichaelBrown_1_4/mb_1_4- -n 4 MichaelBrown_1_4.HTML '/</DOC>/'1 {*}
 rm MichaelBrown_1_4/mb_1_4-0050
 python ../lexisnexis.py MichaelBrown_1_4 c8
+
+FILEPRE=OscarGrant_1_1
+mkdir $FILEPRE
+csplit -f $FILEPRE/$FILEPRE- -n 4 $FILEPRE.HTML '/</DOC>/'1 {*}
+REMOVE=`ls -r $FILEPRE|head -n 1`
+rm $FILEPRE/$REMOVE
+#python ../lexisnexis.py $FILEPRE c22 <-- pclass determined manually
