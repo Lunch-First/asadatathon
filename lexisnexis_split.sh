@@ -31,4 +31,7 @@ csplit -f MichaelBrown_1_2/mb_1_2- -n 4 MichaelBrown_1_2.HTML '/</DOC>/'1 {*}
 rm MichaelBrown_1_2/mb_1_2-0100
 python ../lexisnexis.py MichaelBrown_1_2 c8
 
-
+mkdir MichaelBrown_1_3
+csplit -f MichaelBrown_1_3/mb_1_3- -n 4 MichaelBrown_1_3.HTML '/</DOC>/'1 {*}
+rm MichaelBrown_1_3/mb_1_3-0100
+python ../lexisnexis.py MichaelBrown_1_3 c8
