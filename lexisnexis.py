@@ -18,7 +18,7 @@ def parse(filename,pclass='c8',spanclass='c2'):
     '''
 
     # Build XPath query string
-    xpquery = '//p[@class='+pclass+']/span[@class='+spanclass+']'
+    xpquery = '//p[@class="'+pclass+'"]/span[@class="'+spanclass+'"]'
 
     with open(filename) as f:
         with open(filename+'.txt','w') as fout:

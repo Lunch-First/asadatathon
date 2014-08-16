@@ -1,0 +1,516 @@
+odds 
+MLB 
+Favorite Odds (O/U) Underdog 
+American League 
+ASTROS -$118 (8.0) Twins 
+ORIOLES -$132 (8.5) Yankees 
+Rays -$148 (9.0) RANGERS 
+A's -$125 (7.5) ROYALS 
+MARINERS -$155 (7.0) Blue Jays 
+National League 
+PADRES -$172 (6.5) Rockies  
+BRAVES -$110 (7.0) Dodgers 
+MARLINS -$120 (7.5) Cards 
+Nationals -$125 (7.0) METS 
+Brewers -$137 (NL) CUBS 
+InterLeague 
+REDS -$132 (7.5) Red Sox 
+GIANTS -$145 (7.0) White Sox 
+TIGERS -$120 (8.5)Pirates 
+INDIANS -$165 (8.0) D'backs 
+ANGELS -$210 (7.5) Phillies 
+NFL Preseason 
+Favorite Odds (O/U) Underdog 
+Thursday's games 
+BEARS 4 (42.0) Jaguars 
+Friday's games 
+PATRIOTS 3 (47.0) Eagles 
+SAINTS 3.5 (43.0) Titans 
+RAIDERS 2.5 (39.0) Lions 
+SEAHAWKS 6 (38.5) Chargers 
+Saturday's games 
+RAMS 2.5 (41.0) Packers 
+COLTS 2.5 (41.0) Giants 
+COWBOYS 1 (41.5) Ravens 
+BENGALS 3.5 (41.5) Jets 
+STEELERS2 (40.0) Bills 
+BUCS 2 (37.0) Dolphins 
+TEXANS 2.5 (40.0) Falcons 
+VIKINGS 3 (38.0) Cards 
+Sunday's games 
+49ERS 3.5 (40.0) Broncos 
+PANTHERS 3.5 (39.0) Chiefs 
+Monday's games 
+REDSKINS 2.5 (41.0) Browns 
+""" 
+Home teams in ALL CAPITALS 
+O/U: over/under 
+NL: no line,Transactions 
+Tuesday's moves 
+BASEBALL 
+COMMISSIONER'S OFFICE "" Suspended Tampa Bay OF Joshua Sale (Charlotte-FSL) 50 games after a second positive test for a drug of abuse in violation of the Minor League Drug Prevention and Treatment Program. 
+American League 
+BOSTON RED SOX "" Optioned LHP Edwin Escobar to Pawtucket (IL). Recalled RHP Anthony Ranaudo from Pawtucket. 
+CHICAGO WHITE SOX "" Reinstated RHP Matt Lindstrom from the 15-day DL. Agreed to terms with OF C.J. Beatty on a minor league contract. 
+CLEVELAND INDIANS "" Sent OF Michael Bourn to Columbus (IL) for a rehab assignment. 
+DETROIT TIGERS "" Optioned LHP Pat McCoy and RHP Justin Miller to Toledo (IL). Released LHP Casey Crosby. Recalled LHPs Blaine Hardy and Robbie Ray from Toledo. Selected the contract of RHP Kevin Whelan from Toledo. Agreed to terms with RHP Shawn Hill on a minor league contract. 
+HOUSTON ASTROS "" Sent OF Alex Presley to Tri-City (NYP) for a rehab assignment. 
+LOS ANGELES ANGELS "" Agreed to terms with LHP Danny Miranda on a minor league contract. 
+MINNESOTA TWINS "" Traded OF Josh Willingham to Kansas City for RHP Jason Adam. 
+TORONTO BLUE JAYS "" Sent 1B Edwin Encarnacion to Buffalo (IL) for a rehab assignment. 
+National League 
+PIRATES "" Optioned RHP Casey Sadler to Indianapolis (IL). Recalled RHP Brandon Cumpton from Indianapolis. 
+CINCINNATI REDS "" Designated OF Ryan LaMarre for assignment. 
+COLORADO ROCKIES "" Sent OF Michael Cuddyer to Tulsa (TL) for a rehab assignment. Agreed to terms with RHP Josh Roenicke on a minor league contract. 
+NEW YORK METS "" Placed RHP Jacob deGrom on the 15-day DL, retroactive to Friday. Recalled RHP Rafael Montero from Las Vegas (PCL). 
+PHILADELPHIA PHILLIES "" Assigned RHP Sean O'Sullivan outright to Lehigh Valley (IL). 
+SAN DIEGO PADRES "" Placed SS Everth Cabrera on the 15-day DL, retroactive to Aug. 10. Recalled OF Jake Goebbert from El Paso (PCL). 
+Frontier League 
+WASHINGTON WILD THINGS "" Sold the contract of OF C.J. Beatty to the Chicago White Sox. 
+BASKETBALL 
+NBA 
+NBA "" Suspended Phoenix F P.J. Tucker three games after pleading guilty to driving while under the extreme influence. Announced the resignation of vice president of events Ski Austin, effective Oct. 3. 
+LOS ANGELES CLIPPERS "" Announced the sale of the club to Steve Ballmer. 
+FOOTBALL 
+NFL 
+NFL "" Suspended Dallas CB Orlando Scandrick four games for violating the league's policy on performance-enhancing substances. 
+CLEVELAND BROWNS "" Released QB Tyler Thigpen and TE Kyle Auffray. Signed QB Rex Grossman. 
+DALLAS COWBOYS "" Placed RB Ben Malena on injured reserve. Released P Cody Mandell. 
+DETROIT LIONS "" Released WR Quintin Payton. Claimed WR Conner Vernon off waivers from Cincinnati. 
+HOUSTON TEXANS "" Released RBs Andre Brown, Tim Cornett and Dennis Johnson. Signed RBs Ronnie Brown and William Powell. Activated NT Louis Nix III from the PUP list. 
+INDIANAPOLIS COLTS "" Released OT Eric Pike. Placed OB Daniel Adongo and Jeris Pendleton on injured reserve. 
+KANSAS CITY CHIEFS "" Placed LB Dezman Moses on injured reserve and DB Steve Gregory on the reserve-retired list. Signed DB Jonathon Amaya. 
+MIAMI DOLPHINS "" Placed QB Pat Devlin on the waived-injured list. Released QB Brock Jensen. Signed QB Brady Quinn and RB Cameron Marshall. 
+NEW ORLEANS SAINTS "" Placed TE Richard Quinn on the reserve-retired list. 
+NEW YORK JETS "" Released LB Tim Fugger. Signed DB LeQuan Lewis. 
+OAKLAND RAIDERS "" Placed DB Jansen Watson on the exempt-left squad list 
+STEELERS "" Released RB Jawan Jamison. 
+ST. LOUIS RAMS "" Placed TE Mason Brodine on the waived-injured list. Signed TE Brad Smelley. 
+SAN DIEGO CHARGERS "" Placed LB Alvin Scioneaux on injured reserve. 
+SAN FRANCISCO 49ERS "" Placed WR Chuck Jacobs on injured reserve. Activated NT Ian Williams from the PUP list. 
+SEATTLE SEAHAWKS "" Placed LB Mike Taylor on injured reserve. 
+TAMPA BAY BUCCANEERS "" Released DB Mark Joyce. 
+HOCKEY 
+NHL 
+EDMONTON OILERS "" Signed F Leon Draisaitl to a three-year, entry-level contract. 
+ECHL 
+READING ROYALS "" Agreed to terms with F Cam Reid. 
+SOCCER 
+MLS 
+NEW YORK RED BULLS "" Traded F Andre Akpan and allocation money to New England for F Saer Sene and an international roster slot. 
+COLLEGE 
+BETHUNE-COOKMAN "" Named Laura Watten softball coach. 
+BRADLEY "" Named Mark Colston, Robert Crull, Joshua Dreher and Kristen Tetuan trainers. 
+CARSON-NEWMAN "" Named Kirby Ellis women's assistant volleyball coach. 
+FELICIAN "" Named P.J. Ernst and Alexa Scrivanich women's assistant volleyball coaches. 
+FURMAN "" Named Chandler Carver director of social media. 
+HOFSTRA "" Named Vincent Giambanco men's and women's cross country coach. 
+HOLY CROSS "" Named Brock Sheahan men's assistant ice hockey coach and Reggie McIntyre director of marketing and special events. 
+ILLINOIS "" Named Mike Waddell senior associate athletic director for external relations. 
+LINCOLN MEMORIAL "" Named Sean Bradke assistant softball coach. 
+NYU "" Named Jefferson Baum men's assistant soccer coach. 
+NORTH ALABAMA "" Named Eddie McCarter men's assistant basketball coach. 
+PRESBYTERIAN "" Named Chelsea Butler assistant softball coach. 
+RANDOLPH-MACON "" Named Jay Howell women's soccer coach. 
+RPI "" Named Daryle Weiss offensive coordinator. 
+SOUTH CAROLINA UPSTATE "" Promoted women's assistant golf coach Kasay Holbrook to head coach. 
+UTICA "" Named Eddie Olczyk men's assistant ice hockey coach.,football 
+NFL preseason 
+SCHEDULE 
+Thursday's game 
+Jacksonville at Chicago, 8 p.m. 
+Friday's games 
+Philadelphia at New England, 7:30 p.m. 
+Tennessee at New Orleans, 8 p.m. 
+San Diego at Seattle, 10 p.m. 
+Detroit at Oakland, 10 p.m. 
+Saturday's games 
+Green Bay at St. Louis, 4 p.m. 
+Baltimore at Dallas, 7 p.m. 
+N.Y. Giants at Indianapolis, 7 p.m. 
+N.Y. Jets at Cincinnati, 7 p.m. 
+Buffalo at Steelers, 7:30 p.m. 
+Miami at Tampa Bay, 7:30 p.m. 
+Atlanta at Houston, 8 p.m. 
+Arizona at Minnesota, 8:30 p.m. 
+Sunday's games 
+Denver at San Francisco, 4 p.m. 
+Kansas City at Carolina, 8 p.m. 
+Monday's game 
+Cleveland at Washington, 8 p.m. 
+ARENA LEAGUE 
+Conference Championships 
+Aug. 10 
+American Conference 
+Cleveland 56, Orlando 46 
+National Conference 
+Arizona 72, San Jose 56 
+ArenaBowl 
+At Orlando, Fla. 
+Aug. 23 
+Cleveland vs. Arizona, 8 p.m. 
+soccer 
+USL Pro 
+W  L  T  PTS GF  GA 
+Orlando 15 2 4 49 41 16 
+Richmond 13 1 9 48 48 21 
+Sacramento 13 6 3 42 36 24 
+LA 12 7 4 40 46 33 
+Harrisburg 9 8 6 33 36 33 
+Rochester 8 8 7 31 19 17 
+OKC 8 9 5 29 30 30 
+Orange 9 14 0 27 26 41 
+Wilmington 6 5 8 26 23 23 
+Charleston 6 8 8 26 22 24 
+Riverhounds 7 11 5 26 29 39 
+Charlotte 7 13 3 24 25 33 
+Dayton 6 15 3 21 26 49 
+Arizona 6 12 5 21 23 39 
+SCHEDULE 
+Wednesday's games 
+Orange at Charleston, 7:30 p.m. 
+Thursday's games 
+Arizona at OKC, 8 p.m. 
+Friday's games 
+Rochester at Charleston, 7:30 p.m. 
+Wilmington at New, 8 p.m. 
+Saturday's games 
+Rochester at Charlotte, 7 p.m. 
+Dayton at Richmond, 7 p.m. 
+Harrisburg at Orlando, 7:30 p.m. 
+LA at OKC, 8 p.m. 
+Riverhounds at Arizona, 10:30 p.m.,golf 
+USGA 
+U.S. Amateur 
+at atlanta athletic Club, Johns Creek, Ga. 
+h-Highlands Course, par 71, 7,490 yards 
+r-Riverside Course, par 72 7,381 yards 
+Second round 
+Lee McCoy  67-68""135-rh 
+Taylor Moore  66-69""135-rh 
+Cheng-Tsung Pan  68-70""138-hr 
+Jimmy Beck  65-73""138-hr 
+Sam Burns  72-66""138-hr 
+Jonathan Garrick  67-71""138-hr 
+Will Zalatoris  69-69""138-rh 
+Jimmy Mullen  70-69""139-hr 
+Carson Jacobs  70-69""139-hr 
+Chris Waters  69-70""139-hr 
+Taylor Pendrith  71-68""139-hr 
+Gavin Green  72-67""139-rh 
+Sam Horsfield  66-73""139-rh 
+Robby Shelton  68-72""140-hr 
+Beau Hossler  71-69""140-hr 
+Guillermo Pereira  68-72""140-hr 
+Byron Meth  70-70""140-hr 
+Taylor Funk  72-68""140-hr 
+Mookie DeMoss  71-69""140-hr 
+Cameron Young  68-72""140-rh 
+Gunn Yang  70-71""141-hr 
+Denny McCarthy  69-72""141-rh 
+Zachary Olsen  70-71""141-rh 
+Derek Bard  69-73""142-hr 
+Justin Tereshko  71-71""142-hr 
+Mario Galiano  70-72""142-hr 
+Eli Cole  71-71""142-hr 
+Ollie Schniederjans  73-69""142-hr 
+Logan McCracken  70-72""142-rh 
+Victor Perez  72-70""142-rh 
+Corey Conners  69-73""142-rh 
+Brandon McIver  71-72""143-hr 
+Doug Ghim  73-70""143-hr 
+Scottie Scheffler  71-72""143-rh 
+Bryson DeChambeau  71-72""143-rh 
+Kyle Jones  72-71""143-rh 
+Matt Teesdale  74-69""143-rh 
+Will Betts, Leechburg  71-72""143-rh 
+M.J. Maguire  76-67""143-rh 
+Xander Schauffele 72-71""143-rh 
+Zander Lombard  72-71""143-rh 
+Adam Svensson  69-74""143-rh 
+Jonathan Woo  72-72""144-hr 
+Seth Reeves  72-72""144-hr 
+Tyler Torano  74-70""144-hr 
+Roman Robledo  72-72""144-hr 
+Rico Hoey  70-74""144-hr 
+Emilio Cuartero  71-73""144-hr 
+Trevor Phillips  73-71""144-hr 
+Jon Rahm  75-69""144-hr 
+Dan Stringfellow  71-73""144-hr 
+Isaiah Logue  70-74""144-hr 
+Paul Howard  71-73""144-hr 
+Jonathan Chang  72-72""144-rh 
+Bo Andrews  71-73""144-rh 
+Frederick Wedel  71-73""144-rh 
+Todd White  73-71""144-rh 
+Jordan Niebrugge  74-70""144-rh 
+Michael Gellerman  73-71""144-rh 
+Matt Nesmith  75-69""144-rh 
+Note: Players with 36-hole scores of 145 will compete in a 17-for-4 playoff to determine the final match-play bracket seeds on Wednesday on the Riverside Course 
+Caleb Sturgeon  74-71""145-hr 
+Zach Seabolt  75-70""145-hr 
+Curtis Luck  73-72""145-hr 
+Kyle Gebhart  76-69""145-hr 
+Addison Coll  72-73""145-hr 
+Garrett Rank  75-70""145-hr 
+Jesse Heinly  72-73""145-hr 
+Cory Gaylord  70-75""145-rh 
+Nathan Smith, Pittsburgh  72-73""145-rh 
+Jack Maguire  71-74""145-rh 
+Scott Wolfes  72-73""145-rh 
+Austin Connelly  75-70""145-rh 
+Travis Williamson  74-71""145-rh 
+Derron Peyton  69-76""145-rh 
+Zach Healy  73-72""145-rh 
+Henry Shimp  73-72""145-rh 
+Jose Narro  73-72""145-rh 
+Failed to make the cut 
+Luke Miller, Venetia  77-69""146-hr 
+Ronald DeNunzio, Jeannette 83-80""163-hr 
+Recreation 
+Baseball 
+Pony League World Series 
+Tuesday's results 
+At Lew Hays Pony Field, Washington Park, Washington, Pa. 
+Chesterfield Co., Va. 10, Los Mochis, Mexico 7  
+Hilo, HI 9, Los Mochis, Mexico 0 
+Levittown, PR 10, Bay County, Mich., 2  
+Levittown, PR 4, Chinese Taipei 2 
+Hilo, HI vs. Chesterfield Co., Va. (n) 
+Wednesday's schedule 
+Levittown, PR vs. Chinese Taipei, 10 a.m. 
+Golf 
+Tuesday's results 
+Pennsylvania Golf Association 
+AHN of Pennsylvania Open 
+At Country Club of York, par 70 
+a = amateur 
+Second round 
+" NOTE: The following players made the the 36-hole cut 
+Nelson Hargrove, Haverford, 66-70 "" 136 
+John Pillar Sr., Hawley, 67-70 "" 137 
+Robert Rohanna, Waynesburg, 69-69 "" 138 
+Kevin Shields, Pittsburgh, 67-73 "" 140 
+Joe Boros, Saxonburg, 71-70 "" 141 
+Mark Sheftic, Blue Bell, 66-75 "" 141 
+Robert McClellan, Butler, 69-73 "" 142 
+Oliver White (a), Lower Gwynedd, 70-72 "" 142 
+Ryan Sikora, Greensburg, 70-72 "" 142 
+Kyle Martin (a), Ambler, 70-72 "" 142 
+Gordon Vietmeier, Pittsburgh, 70-73 "" 143 
+Mike Van Sickle, Wexford, 73-70 "" 143 
+Andrew Mason, Huntingdon Valley, 70-73 "" 143 
+Greg Jarmas, Wynnewood, 72-71 "" 143 
+Cody Cox (a), Milford, 70-73 "" 143 
+Braden Shattuck (a), Aston, 72-71 "" 143 
+Rich Steinmetz, Gilbertsville, 72-71 "" 143 
+Alex Blickle (a), Wernersville, 72-72 "" 144 
+Billy Stewart, Devon, 70-74 "" 144 
+Mark Summerville, Gladwyne, 70-74 "" 144 
+Arnie Cutrell (a), Greensburg, 72-73 "" 145 
+Terry Hatch, Pottsville, 74-71 "" 145 
+Brandon Knaub, York, 73-73 "" 146 
+Ben Boyle, Boiling Springs, 74-72 "" 146 
+John Aber, Pittsburgh, 70-76 "" 146 
+Jim Markovitz, McDonald, 71-75 "" 146 
+Bob Ford, Oakmont, 74-72 "" 146 
+Terry Hertzog, Lititz, 73-74 "" 147 
+Josh Rinehart (a), York, 71-76 "" 147 
+Sean Fahey (a), Villanova, 70-77 "" 147 
+John Popeck, Washington, 72-75 "" 147 
+Mike Furey, Summit Hill, 72-75 "" 147 
+Brett Rinker (a), Slippery Rock, 73-74 "" 147 
+ (a), Cheltenham, 69-78 "" 147 
+Russell Harbold, Lancaster, 73-75 "" 148 
+Benjamin Cooley (a), Rydal, 75-73 "" 148 
+Chad Bricker, Waynesboro, 73-75 "" 148 
+Ed Carnes (a), N.J., 71-77 "" 148 
+Hole-in-one 
+" Valerie Bennardo, Shaler, Rolling Road Golf Club, Catonsville, Md., No. 17, 130 yards, 7-iron. 
+Softball 
+Tuesday's results 
+World Series 
+Junior Division, Kirkland, Wash. 
+Eagle Pass, Texas 14, Tuscon, Ariz. 8 (8 innings) 
+West Point 11, Mexicali, Mexico 0 (5 innings) 
+Hampton LL, Victoria, B.C. 4, Iloilo, Philippines 
+Milan, Italy 7, Eagle Pass, Texas 2 
+Kirkland, Wash. vs. Jeffersonville, Ind. (n) 
+Summary 
+West Point 11, Mexicali, Mexico, 0 
+West Point  362 00 "" 11-13-0 
+Mexico  000 00 "" 0-7-1 
+WP: Maddie Uschock. LP: Valera Narcias. 2B: WP: Jennah Osikowicz, Morgan Ryan. 3B: WP: Osikowicz, Ali Belgiovane, Autumn Beasley. 3 or more hits: WP: Beasley (3), Osikowicz (3), Belgiovane (3). 
+Wednesday's schedule 
+All times PST 
+Hampton LL, Victoria, B.C. vs. Eagle Pass, Texas, 10:45 a.m.; Mexicali, Mexico vs. Tuscon, Ariz., 11 a.m.; Iloilo, Philippines vs. Jeffersonville, Ind., 1:45 p.m.; West Point vs. Milan, Italy, 2 p.m. 
+tennis 
+atp/wta 
+Western & Southern Open  
+Tuesday's matches 
+at The Lindner Family Tennis Center, Mason, Ohio 
+Purse: Men, $4.02 million; Women, $2.57 million 
+Surface: Hard-Outdoor 
+Singles 
+Men's seeded winners: Marin Cilic (14), Ernests Gulbis (9), Roberto Bautista Agut (13), Stan Wawrinka (3) 
+Men's seeded losers: Jo-Wilfried Tsonga (12) 
+Women's seeded winners: Lucie Safarova (16), Carla Suarez Navarro (15), Sara Errani (14), Maria Sharapova (5), Caroline Wozniacki (12) 
+Women's seeded losers: none 
+motor sports 
+NASCAR Sprint Cup 
+Leaders 
+Through Aug. 10 
+Points 
+1, Dale Earnhardt Jr., 773. 2, Jeff Gordon, 768. 3, Matt Kenseth, 703. 4, Brad Keselowski, 696. 5, Joey Logano, 671. 6, Carl Edwards, 658. 7, Jimmie Johnson, 650. 8, Kevin Harvick, 645. 9, Ryan Newman, 645. 10, Kyle Larson, 635. 
+11, Clint Bowyer, 634. 12, Greg Biffle, 626. 13, Kasey Kahne, 622. 14, Austin Dillon, 616. 15, Kyle Busch, 615. 16, Marcos Ambrose, 584. 17, Paul Menard, 574. 18, Brian Vickers, 573. 19, Jamie McMurray, 566. 20, Denny Hamlin, 552. 
+Money 
+1, Brad Keselowski, $4,890,795. 2, Jeff Gordon, $4,666,596. 3, Dale Earnhardt Jr., $4,561,089. 4, Jimmie Johnson, $4,510,201. 5, Jamie McMurray, $4,286,167. 6, Kevin Harvick, $4,216,650. 7, Matt Kenseth, $4,192,805. 8, Joey Logano, $4,147,686. 9, Kyle Busch, $4,146,468. 10, Denny Hamlin, $3,969,926. 
+11, Greg Biffle, $3,581,489. 12, Austin Dillon, $3,500,672. 13, Clint Bowyer, $3,427,598. 14, Carl Edwards, $3,369,747. 15, Brian Vickers, $3,367,948. 16, Aric Almirola, $3,366,127. 17, Paul Menard, $3,354,713. 18, Kyle Larson, $3,275,280. 19, Ricky Stenhouse Jr., $3,190,155. 20, Tony Stewart, $3,178,572. 
+golf 
+World Ranking 
+Through Aug. 10 
+1. Rory McIlroy NIR 11.27 
+2. Adam Scott AUS 9.28 
+3. Henrik Stenson SWE 8.21 
+4. Sergio Garcia ESP 7.75 
+5. Justin Rose ENG 7.45 
+6. Jim Furyk USA 6.87 
+7. Matt Kuchar USA 6.66 
+8. Bubba Watson USA 6.60 
+9. Phil Mickelson USA 6.28 
+10. Jason Day AUS 6.28 
+11. Tiger Woods USA 5.75 
+12. Jordan Spieth USA 5.49 
+13. Rickie Fowler USA 5.42 
+14. Martin Kaymer GER 5.31 
+15. Zach Johnson USA 4.97 
+16. Graeme McDowell NIR 4.87 
+17. Dustin Johnson USA 4.85 
+18. Hideki Matsuyama JPN 4.80 
+19. Jimmy Walker USA 4.38 
+20. Charl Schwartzel RSA 4.24 
+21. Steve Stricker USA 4.17 
+22. Keegan Bradley USA 4.08 
+23. Victor Dubuisson FRA 4.07 
+24. Thomas Bjorn DEN 3.79 
+25. Luke Donald ENG 3.73 
+26. Patrick Reed USA 3.67 
+27. Jason Dufner USA 3.66 
+28. Miguel Angel Jimenez ESP 3.43 
+29. Ian Poulter ENG 3.41 
+30. Jamie Donaldson WAL 3.38 
+31. Webb Simpson USA 3.35 
+32. Stephen Gallacher SCO 3.31 
+33. Brandt Snedeker USA 3.30 
+34. Lee Westwood ENG 3.27 
+35. Thongchai Jaidee THA 3.17 
+36. Kevin Na USA 3.13 
+37. Bill Haas USA 3.12 
+38. Ryan Moore USA 3.10 
+39. Graham DeLaet CAN 3.08 
+40. Marc Leishman AUS 3.07 
+41. Hunter Mahan USA 2.96 
+42. Brendon Todd USA 2.94 
+43. Kevin Streelman USA 2.87 
+44. Francesco Molinari ITA 2.84 
+45. Chris Kirk USA 2.71 
+46. Mikko Ilonen FIN 2.66 
+47. Joost Luiten NED 2.66 
+48. Jonas Blixt SWE 2.65 
+49. Ryan Palmer USA 2.58 
+50. Gary Woodland USA 2.54 
+51. Harris English USA 2.52 
+52. Matt Every USA 2.52 
+53. Matt Jones AUS 2.51 
+54. Kevin Stadler USA 2.50 
+55. Louis Oosthuizen RSA 2.45 
+56. Angel Cabrera ARG 2.44 
+57. Ernie Els RSA 2.44 
+58. John Senden AUS 2.36 
+59. Billy Horschel USA 2.32 
+60. Shane Lowry IRL 2.23 
+61. J.B. Holmes USA 2.19 
+62. Russell Henley USA 2.18 
+63. Koumei Oda JPN 2.16 
+64. Pablo Larrazabal ESP 2.10 
+65. Brian Harman USA 2.09 
+66. G. Fernandez-Castano ESP 2.09 
+67. Bernd Wiesberger AUT 2.07 
+68. Charley Hoffman USA 1.99 
+69. Matteo Manassero ITA 1.99 
+70. Brooks Koepka USA 1.95 
+71. George Coetzee RSA 1.95 
+72. Richard Sterne RSA 1.94 
+73. K.J. Choi KOR 1.88 
+74. Rafael Cabrera-Bello ESP 1.86 
+75. Nick Watney USA 1.82 
+Soccer 
+MLS  
+EASTERN CONFERENCE 
+W L T Pts GF GA 
+Sporting K.C. 11 6 6 39 32 22 
+D.C. 11 7 4 37 32 24 
+Toronto FC 9 7 5 32 32 30 
+New York 6 7 10 28 35 34 
+Philadelphia 6 8 9 27 36 37 
+Columbus 6 8 9 27 28 31 
+New England 8 12 2 26 29 35 
+Chicago 4 5 13 25 29 34 
+Houston 6 12 4 22 23 42 
+Montreal 3 14 5 14 22 41 
+WESTERN CONFERENCE 
+W L T Pts GF GA 
+Seattle 13 6 2 41 37 28 
+Real Salt Lake 10 4 9 39 36 27 
+FC Dallas 10 7 6 36 38 32 
+Los Angeles 9 4 7 34 34 19 
+Vancouver 7 4 11 32 33 29 
+Colorado 8 9 6 30 32 31 
+Portland 7 7 9 30 38 38 
+San Jose 6 8 6 24 25 22 
+Chivas USA 6 11 5 23 21 36 
+" Three points for victory, one point for tie. 
+SCHEDULE 
+Friday's games 
+Philadelphia at Houston, 9 p.m. 
+Saturday's games 
+Seattle FC at Real Salt Lake, 2:30 p.m. 
+Chicago at Montreal, 6:30 p.m. 
+Los Angeles at Columbus, 7:30 p.m. 
+Portland at New England, 7:30 p.m. 
+Toronto FC at Sporting K.C., 8:30 p.m. 
+Vancouver at Chivas USA, 10:30 p.m. 
+FC Dallas at San Jose, 10:30 p.m. 
+Sunday's games 
+Colorado at D.C. United, 8 p.m. 
+Boxing 
+Fight schedule 
+FRIDAY 
+" At Chumash Resort Casino, Santa Ynez, Calif. (ESPN2), Rustam Nugaev vs. Denis Shafikov, 12, lightweights; Jose Pedraza vs. Juan Carlos Martinez, 10, super featherweights. 
+SATURDAY 
+" At Erfurt, Germany, Yoan Pable Hernandez vs. Firat Arslan, 12, for Hernandez's IBF cruiserweight title. 
+" At StubHub Center, Carson, Calif. (SHO), Shawn Porter vs. Kell Brook, 12, for Porter's IBF welterweight title; Sakio Bika vs. Anthony Dirrell, 12, for Bika's WBC super middleweight title; Omar Figueroa vs. Daniel Estrada, 12, for Figueroa's WBC lightweight title. 
+Aug. 22 
+" At Pechanga Resort & Casino, Temecula, Calif. (ESPN2), Austin Trout vs. Daniel Dawson, 10, junior middleweights. 
+" At Fairfield, Calif. (FS1, Manuel Avila vs. Sergio Frias, 10, junior featherweights. 
+Aug. 23 
+" At Tecate, Mexico, Javier Mendoza vs. Ramon Garcia Hirales, 12, for the vacant IBF light flyweight title. 
+Aug. 26 
+" At Shanghai, China, Randy Petalcorin vs. Wisanu Kokietgym, 12, for vacant WBA interim junior flyweight title; Ik Yang vs. Sukkasem Kietyongyuth, 10, junior welterweights. 
+Sept. 5 
+" At Tokyo, Japan, Akira Yaegashi vs. Roman Gonzalez, 12, for Yaegashi's WBC flyweight title; Naoya Inoue vs. Samartlek Kokietgym, 12, for Inoue's WBC junior flyweight title. 
+Sept. 6 
+" At Hamburg, Germany, Wladimir Klitschko vs. Kubrat Pulev, 12, for Klitschko's IBF-WBO-IBO-WBA Super World heavyweight titles. 
+" At Belfast, Northern Ireland, Kiko Martinez vs. Carl Frampton, 12, for Martinez's IBF super bantamweight title. 
+" At U.S. Bank Arena, Cincinnati (SHO), Adrien Broner vs. Emmanuel Taylor, 12, super lightweights; Lucas Martin Matthysse vs. Michael Perez, 12, junior welterweights. 
+" At Mexico City, Juan Francisco Estrada vs. Giovani Segura, 12, for Estrada's WBA Super World and WBO flyweight titles. 
+Sept. 10 
+" At Nakhon Ratchasima, Thailand, Amnat Ruenroeng vs. McWilliams Arroyo, 12, for Ruenroeng's IBF flyweight title. 
+Sept. 13 
+" At MGM Grand, Las Vegas (PPV), Floyd Mayweather, Jr. vs. Marcos Rene Maidana, 12, for Mayweather's WBA Super World and WBC welterweight titles. 
+Sept. 20 
+" At Helsinki, Finland, Richar Abril vs. Edis Tatli, 12, for Abril's WBA World lightweight title. 
+Sept. 26 
+" At Mesquite, Texas (FS1), Anselmo Moreno vs. Juan Carlos Payano, 12, for Moreno's WBA Super bantamweight title. 
+Sept. 27 
+" At Moscow, Krzystof Wlodarczyk vs. Grigory Drozd, 12, for Wlodarczyk's WBC cruiserweight title; Denis Lebedev vs. Pawel Kolodziej, 12, for Lebedev's WBA cruiserweight title. 
