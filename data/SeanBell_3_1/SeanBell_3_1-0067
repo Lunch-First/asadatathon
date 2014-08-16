@@ -1,0 +1,655 @@
+<BR CLASS="c10"/>
+<A NAME="DOC_ID_0_67"></A><!-- Hide XML section from browser
+<DOC NUMBER=68>
+<DOCFULL> -->
+<BR><DIV CLASS="c0"><P CLASS="c1"><SPAN CLASS="c2">68 of 214 DOCUMENTS</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c3"><P CLASS="c1"><SPAN CLASS="c2">Copyright (c) 2008 Yale Law &amp; Policy Review<BR>Yale Law &amp; Policy Review</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c3"><P CLASS="c1"><SPAN CLASS="c2">Spring, 2008</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c3"><P CLASS="c1"><SPAN CLASS="c2">YALE LAW &amp; POLICY REVIEW</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c3"><P CLASS="c1"><SPAN CLASS="c2">26 Yale L. &amp; Pol'y Rev. 567</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8">LENGTH: </SPAN><SPAN CLASS="c2">14270 words</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c2">NOTE: Defensive Shootings and Error Risk:<BR> A Collateral Cost of Changing Gun Laws?</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8">NAME: </SPAN><SPAN CLASS="c2">Rebecca J. Kelly*</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8">BIO: </SPAN><SPAN CLASS="c2">* Yale Law School, J.D. 2008; Yale University, B.A. 2003. I am extremely grateful to John Donohue for his guidance in writing and developing this Note and to Anna Arkin-Gallagher for her superior editing skills. I am also deeply indebted to Kevin Kelly, Margaret Kelly, Matt Kelly, and Justin Slaughter for all their support and encouragement, both editorial and otherwise.</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8"> LEXISNEXIS SUMMARY:<BR></SPAN><SPAN CLASS="c2"> ... To that extent, each type of risk prioritization can be seen as in careful balance with the other: enough protection of the innocent in the court system, despite the risk that some guilty people will be acquitted, is balanced by enough room for self-defense to prohibit potential crime victims from being attacked, despite the risk that some non-criminals will be shot.  ... Lott also concludes that &quot;mass shootings in public places are reduced when law-abiding citizens are allowed to carry concealed handguns.&quot; ... False-Negative Minimization: Self-Defense Laws Self-defense laws have the opposite error-risk prioritizations from the presumption of innocence and reasonable doubt rules; self-defense laws minimize false negatives by tolerating some false positives.  ... A self-defense rule that prefers false-negative to false-positive errors (such as the type of rule that operates in the courtroom) would give self-defenders very little latitude to make mistakes; self-defense would be justified only when the self-defender could be certain (say, beyond a reasonable doubt) that he needed to use deadly force to protect himself or his home.  ... Specifically, policy-makers should consider the impact of increasingly permissive gun laws on the risk of erroneous defensive shootings and how that risk plays into not only the moral equation but also public confidence in the justice system and in law enforcement.</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8"> TEXT:<BR></SPAN><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*569]</SPAN><SPAN CLASS="c2">&nbsp;</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Thomas Terry walked into a Shoney's restaurant in Anniston, Alabama, expecting nothing more than a quick meal. Instead, he found himself face-to-face with two armed robbers, crazed gunmen who had terrorized the other restaurant patrons, and were working themselves into a frenzy, on the verge of an orgy of violence. Only then did Terry pull the concealed .45-caliber handgun Alabama law allowed him to carry. The thugs fired, one of them grazing Terry's hip. Terry's aim was more sure. He shot one of the armed robbers to death, and wounded the other to a degree that took him out of the fight. </SPAN><SPAN CLASS="c29"><SUP>n2</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> When Terry fired his gun, he took (at least hypothetically) a risk that those he perceived to be attackers would turn out to be innocent, that they would be shot in error. Of course, the risk of error seems quite low here, as the &quot;crazed gunmen&quot; seemed unmistakably out to cause harm; indeed, Terry's decision to &nbsp;</SPAN><SPAN CLASS="c8">[*570]</SPAN><SPAN CLASS="c2">  shoot turned out not to have been in error. Nonetheless, the risk that he might have been wrong was present, however low.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">On the other hand, consider the example of homeowner Rodney Peairs, who took the same risk and turned out to be wrong. In October 1992, Yoshihiro Hattori, a Japanese exchange student who was living in Louisiana, and an American friend approached the home of Peairs, looking for a Halloween party. When Peairs's wife opened the door, she was frightened by the boys in costume and yelled for Peairs to get his gun. Hattori did not understand Peairs's command to freeze, so Peairs shot and killed him. The next year, Peairs was acquitted in a criminal trial (though a civil case did award damages to the victim's family). </SPAN><SPAN CLASS="c29"><SUP>n3</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">In both of these instances, a citizen lawfully shot a perceived attacker in self-defense. In the first, the perception of danger turned out to have been correct. In the second, the perception was incorrect, and an innocent person was shot. Critically, however, the self-defense law provided that no crime was committed by either shooter because both reasonably believed themselves to be in danger. Self-defense law privileges the risk that an innocent non-criminal like Hattori will be erroneously perceived to be an attacker and therefore shot over the risk that criminals like the Alabama gunmen will be allowed to commit their crimes uninterrupted. This Note argues that these error-risk calculations are inherently relevant to permissive gun laws and thus must be considered when evaluating the propriety and effectiveness of those laws.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">In this Note, I examine the error risk inherent in two different environments of crime prevention and punishment: the operation of criminal courts after the commission of a crime and personal self-defense with guns to prevent a crime from occurring. Indeed, the two have been compared academically before:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">Gun use by private citizens against violent criminals and burglars is common and about as frequent as legal actions like arrests, is a more prompt negative consequence of crime than legal punishment, and is more severe, at its most serious, than legal system punishments... . Serious predatory criminals perceive a risk from victim gun use that is roughly comparable to that of criminal justice system actions ... . </SPAN><SPAN CLASS="c29"><SUP>n4</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> This Note looks at conviction on the one hand and defensive shootings on the other as two ways those suspected of causing harm to others are ultimately judged, where the risk of error has the greatest consequences.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*571]</SPAN><SPAN CLASS="c2">  I argue that laws protecting the innocent against criminal conviction and laws allowing individuals to protect themselves from criminal attack prioritize opposite types of risk. To that extent, each type of risk prioritization can be seen as in careful balance with the other: enough protection of the innocent in the court system, despite the risk that some guilty people will be acquitted, is balanced by enough room for self-defense to prohibit potential crime victims from being attacked, despite the risk that some non-criminals will be shot. If one assumes the status quo to generate a particular balance of these risks, change in the relevant laws creates change in the balance. Specifically, more permissive gun laws facilitate the exercise of self-defense (at the expense of the safety of perceived attackers) and therefore put a finger on the self-defense side of the error-risk scale. The current debate over the correlation between guns and crime should consider that disruption before drawing normative conclusions about the benefit of these laws.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The Note proceeds as follows: Part I briefly examines current gun use in America and the literature on the purported causal connection between gun laws and crime rates. Part II sets up the theoretical landscape of my argument by explaining the concept of error risk in greater detail. Part III turns this lens on two techniques that minimize false positives: reasonable doubt and the presumption of innocence. Part IV looks at rules on the other side of the error-risk calculus: the false-negative-minimizing self-defense rules. Part V then integrates the right-to-carry and shoot-in-self-defense laws into the error-risk picture that has been drawn. The Note concludes by considering the importance of error-risk analysis to policy makers considering not only gun laws but any other decision-making regime.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">I. Guns, Crime, and Scholarship<BR>&nbsp;<BR> Before delving into the error-risk analysis that forms the basis for this Note's argument, it is valuable to briefly survey the landscape of gun use in America and the legal literature that analyzes it. The arguments presented in this literature are essential to understanding both the significance of gun laws and the gaps in current scholarly analysis of legal defensive killings.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">A. Guns in America<BR>&nbsp;<BR> By today's best estimates, there are at least 200 million firearms in the hands of American civilians. </SPAN><SPAN CLASS="c29"><SUP>n5</SUP></SPAN><SPAN CLASS="c2"> Across the political and ideological spectrum, it is widely agreed that the primary reason Americans keep guns is for self- &nbsp;</SPAN><SPAN CLASS="c8">[*572]</SPAN><SPAN CLASS="c2">  protection. </SPAN><SPAN CLASS="c29"><SUP>n6</SUP></SPAN><SPAN CLASS="c2"> The exact number of annual defensive gun uses is harder to estimate. The government-sponsored National Crime Victimization Survey (NCVS) has found that guns are used in self-defense approximately 108,000 times per year, </SPAN><SPAN CLASS="c29"><SUP>n7</SUP></SPAN><SPAN CLASS="c2"> though this number is the subject of some debate. </SPAN><SPAN CLASS="c29"><SUP>n8</SUP></SPAN><SPAN CLASS="c2"> By every estimate, however, the point for purposes of this Note holds: many Americans keep guns and use them for self-defense.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Of course, most defensive gun uses involve merely brandishing or threatening to shoot a gun without any shots being fired. </SPAN><SPAN CLASS="c29"><SUP>n9</SUP></SPAN><SPAN CLASS="c2"> Nonetheless, even ardent gun-rights advocates acknowledge that, &quot;although shootings of criminals represent a small fraction of defensive uses of guns, Americans nevertheless shoot criminals with a frequency that must be regarded as remarkable by any standard.&quot; </SPAN><SPAN CLASS="c29"><SUP>n10</SUP></SPAN><SPAN CLASS="c2"> No national data exists on the frequency of legal defensive killings, though Gary Kleck has attempted to extrapolate estimates from local statistics, concluding that there are between 10,000 and 20,000 legal shootings of criminals - or at least those perceived to be criminals - per year. </SPAN><SPAN CLASS="c29"><SUP>n11</SUP></SPAN><SPAN CLASS="c2"> This Note takes a theoretical look at these cases of defensive shootings from an error-risk perspective &nbsp;</SPAN><SPAN CLASS="c8">[*573]</SPAN><SPAN CLASS="c2">  to claim they must become a bigger part of any policy debate about gun control.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">B. The Guns and Crime Debate<BR>&nbsp;<BR> To date, the vast literature on the connection between private gun ownership and crime rates has focused on whether there is a positive or negative correlation between the former and the latter, or whether there is any correlation at all. </SPAN><SPAN CLASS="c29"><SUP>n12</SUP></SPAN><SPAN CLASS="c2"> Jens Ludwig and Philip Cook, who have written extensively on the issue, note that though there is widespread acknowledgement that guns have beneficial effects on crime prevention, a debate remains:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">What is in dispute is the magnitude of these [positive] effects and their implications for public policy. How often do victims succeed in using a gun to avoid serious injury? To what extent does the private ownership of guns serve as a deterrent to violence? </SPAN><SPAN CLASS="c29"><SUP>n13</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> These questions are significant because if the magnitude of crime prevention is small in comparison to the negative costs of permissive gun laws - for example, frequent erroneous defensive shootings or accidental injuries - then policy-makers might conclude that the crime-prevention benefits are not worth the risk of widespread gun ownership. It is the empirical questions about the magnitude of the correlation between guns and crime that have been at the heart of much of the guns and crime literature thus far.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">On the one hand, a group of scholars argues that empirical evidence supports the theory that private gun ownership reduces crime because it deters criminals. </SPAN><SPAN CLASS="c29"><SUP>n14</SUP></SPAN><SPAN CLASS="c2"> As John Lott, one of the most prominent (and controversial) writers &nbsp;</SPAN><SPAN CLASS="c8">[*574]</SPAN><SPAN CLASS="c2">  in the field, claims, &quot;when crime becomes more difficult, less crime is committed.&quot; </SPAN><SPAN CLASS="c29"><SUP>n15</SUP></SPAN><SPAN CLASS="c2"> He has analyzed data on guns and crime and concludes that &quot;allowing citizens to carry concealed handguns reduces violent crimes, and the reductions coincide very closely with the number of concealed-handgun permits issued.&quot; </SPAN><SPAN CLASS="c29"><SUP>n16</SUP></SPAN><SPAN CLASS="c2"> Lott also concludes that &quot;mass shootings in public places are reduced when law-abiding citizens are allowed to carry concealed handguns.&quot; </SPAN><SPAN CLASS="c29"><SUP>n17</SUP></SPAN><SPAN CLASS="c2"> Furthermore, a proven deterrent effect may support not only the argument that permissive gun laws are a good idea, but also the argument that they are morally obligatory. </SPAN><SPAN CLASS="c29"><SUP>n18</SUP></SPAN><SPAN CLASS="c2"> Other scholars line up behind Lott and make similar arguments about the relationship between guns and crime. </SPAN><SPAN CLASS="c29"><SUP>n19</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Squaring off against Lott and his supporters is a group of scholars who argue not only that Lott's empirical analysis is flawed, but also that the Lott side fails to consider ways in which murder rates can increase through the passage of shall-issue laws </SPAN><SPAN CLASS="c29"><SUP>n20</SUP></SPAN><SPAN CLASS="c2"> &quot;even if no permit holder ever commits a crime.&quot; </SPAN><SPAN CLASS="c29"><SUP>n21</SUP></SPAN><SPAN CLASS="c2"> Professor John J. Donohue explains:</SPAN></P>
+<P CLASS="c9"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*575]</SPAN><SPAN CLASS="c2">&nbsp;</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">First, knowing that members of the public are armed may encourage criminals to carry guns and use them more quickly, resulting in more felony murders. Second, ... the massive theft of guns each year means that anything that increases the number of guns in America will likely increase the flow of guns into the hands of criminals, who may use them to commit murders. Notably, the typical gun permit holder is a middle-aged Republican white male, which is a group at relatively low risk of violent criminal victimization with or without gun ownership, so it is not clear whether substantial crime reduction benefits are likely to occur by arming this group further. </SPAN><SPAN CLASS="c29"><SUP>n22</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> Donohue analyzes both of these hypotheses from an empirical perspective, and concludes that it is impossible to draw a causal conclusion about the effect of the passage of gun laws on crime rates. </SPAN><SPAN CLASS="c29"><SUP>n23</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Authors also consider other ways in which gun ownership may increase gun violence without affecting crime rates - namely through accidental shootings </SPAN><SPAN CLASS="c29"><SUP>n24</SUP></SPAN><SPAN CLASS="c2"> and suicides. </SPAN><SPAN CLASS="c29"><SUP>n25</SUP></SPAN><SPAN CLASS="c2"> Aside from select anecdotes such as the story of the unfortunate trick-or-treater, Hattori, </SPAN><SPAN CLASS="c29"><SUP>n26</SUP></SPAN><SPAN CLASS="c2"> discussions about the significance of the gun owner who legally shoots in self-defense, injuring or killing his potential assailant, are largely absent from any discussion in the current literature on gun laws and crime rates. Because the law permits such a gun owner to use his gun to &nbsp;</SPAN><SPAN CLASS="c8">[*576]</SPAN><SPAN CLASS="c2">  protect himself, he has committed no crime, </SPAN><SPAN CLASS="c29"><SUP>n27</SUP></SPAN><SPAN CLASS="c2"> and yet the number of deaths or injuries due to guns increases every time one of these shootings occurs. Of course, if one assumes that the self-defender's judgment that he was in danger was correct, this injury can be viewed as merely a replacement - the injured assailant rather than the injured victim - and a replacement that society might well tolerate comfortably. But the correctness of the self-defender's judgment is not guaranteed; indeed, there are myriad tragic anecdotes about incorrect self-defense shootings. </SPAN><SPAN CLASS="c29"><SUP>n28</SUP></SPAN><SPAN CLASS="c2"> It is this error risk that I argue must be considered in any discussion attempting to examine the connection between guns and crime. </SPAN><SPAN CLASS="c29"><SUP>n29</SUP></SPAN></P>
+<P CLASS="c9"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*577]</SPAN><SPAN CLASS="c2">&nbsp;</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">II. An Overview of Error-Risk Minimization<BR>&nbsp;<BR> The idea that society prefers to release the guilty than imprison the innocent is at the heart of the operation of our criminal courts. It is this axiomatic principle that undergirds the error-minimization system governing standards for convictions and prosecutions, and it is this principle that I suggest is in tension with right-to-carry laws (and other permissive gun laws).</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Scientists refer to two types of errors: false positives (which are sometimes called type-1 errors) and false negatives (which are sometimes called type-2 errors). </SPAN><SPAN CLASS="c29"><SUP>n30</SUP></SPAN><SPAN CLASS="c2"> These errors can be understood as a measure of the effectiveness of any decision in achieving its goal. If the goal of the decision-maker is to correctly identify fact X, a false positive will diagnose the fact as present when it is not, while a false negative will diagnose the fact as absent when it is really present. In the criminal courts, the goal can be understood as the conviction of the guilty party. Thus, a false-positive conviction error would be the erroneous conviction of an innocent man, and a false-negative conviction error would be the erroneous acquittal of a guilty one. </SPAN><SPAN CLASS="c29"><SUP>n31</SUP></SPAN><SPAN CLASS="c2"> Similarly, when someone shoots in self-defense, her goal can be understood as the successful prevention of a crime. She makes a false-positive error if she shoots someone who is not actually an assailant and a false-negative error if she fails to shoot someone who is. </SPAN><SPAN CLASS="c29"><SUP>n32</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">When any decision is made, the decision-maker risks either a false-positive or false-negative error. </SPAN><SPAN CLASS="c29"><SUP>n33</SUP></SPAN><SPAN CLASS="c2"> This holds true in the legal system as it chooses one side over another. As the Supreme Court has pointed out, &quot;there is always in litigation a margin of error, representing error in fact-finding, which both parties must take into account.&quot; </SPAN><SPAN CLASS="c29"><SUP>n34</SUP></SPAN><SPAN CLASS="c2"> Accordingly, consideration of the error-risk inherent in any given decision becomes part of the deliberative process. Throughout history, legal systems have been built around the notion that, when it comes to the government depriving citizens of life, liberty, property, or even reputation, false-negative errors are preferable to false-positive errors. In other words, &nbsp;</SPAN><SPAN CLASS="c8">[*578]</SPAN><SPAN CLASS="c2">  as Blackstone said, &quot;it is better that ten guilty persons escape, than that one innocent suffer.&quot; </SPAN><SPAN CLASS="c29"><SUP>n35</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">This idea did not originate with Blackstone. </SPAN><SPAN CLASS="c29"><SUP>n36</SUP></SPAN><SPAN CLASS="c2"> Indeed, the same principle can be traced back to ancient civilizations, </SPAN><SPAN CLASS="c29"><SUP>n37</SUP></SPAN><SPAN CLASS="c2"> though the number of guilty men at risk varies depending on context and commentator. This varying number of guilty men - what Alexander Volokh has referred to as the &quot;n guilty men&quot; principle </SPAN><SPAN CLASS="c29"><SUP>n38</SUP></SPAN><SPAN CLASS="c2"> - can be seen as a measurement of society's false-negative-error tolerance. A brief survey of the historical use of the n guilty men principle shows that, though the level of tolerance varies, society has long been concerned with avoiding false-positive errors. </SPAN><SPAN CLASS="c29"><SUP>n39</SUP></SPAN><SPAN CLASS="c2"> Though the magnitude of the &quot;n guilty men&quot; principle is a subject of dispute - how many guilty men is it worth releasing to avoid the conviction of one innocent - the idea that such a ratio exists is pervasive. </SPAN><SPAN CLASS="c29"><SUP>n40</SUP></SPAN><SPAN CLASS="c2"> And indeed it has been built into the structure of our criminal justice system.</SPAN></P>
+<P CLASS="c9"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*579]</SPAN><SPAN CLASS="c2">&nbsp;</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">III. False-Positive Minimization: Presumption of Innocence and Reasonable Doubt<BR>&nbsp;<BR> Society's preference for false-negative to false-positive errors where matters of life and liberty are at stake can be seen clearly in two important elements of the criminal prosecutions: the presumption of innocence and the reasonable doubt standard.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The decision to presume a suspect innocent can be understood as the first in a series of decisions that are made in a criminal prosecution. In establishing the default rule for the consideration of an accusation, the accused can be presumed to be innocent or guilty. </SPAN><SPAN CLASS="c29"><SUP>n41</SUP></SPAN><SPAN CLASS="c2"> If he is presumed innocent, the government bears the burden of proving him guilty; should it not he will be acquitted. The presumption of innocence incurs the risk that a guilty man will be acquitted (a false-negative error). Conversely, if we presumed the accused to be guilty, the defendant would bear the burden of establishing his own innocence; should he not, he would be convicted. Under a presumption-of-guilt system, the risk would be of false-positive errors - the chance that an innocent man will be found guilty is increased. Thus, because we prefer false-negative to false-positive errors, we choose the default rule that risks false-negative over false-positive errors: presuming innocence. </SPAN><SPAN CLASS="c29"><SUP>n42</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The Supreme Court has held that &quot;the principle that there is a presumption of innocence in favor of the accused is the undoubted law, axiomatic and elementary, and its enforcement lies at the foundation of the administration of our criminal law.&quot; </SPAN><SPAN CLASS="c29"><SUP>n43</SUP></SPAN><SPAN CLASS="c2"> Although this was not expressed explicitly until 1895, the Court noted that the roots of the presumption are deep: &quot;it is stated as unquestioned in the text-books, and has been referred to as a matter of course in the decisions of this court and in the courts of the several States.&quot; </SPAN><SPAN CLASS="c29"><SUP>n44</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">While the presumption of innocence is perhaps more deeply ingrained in our justice system than the reasonable doubt standard, the two are error-risk &nbsp;</SPAN><SPAN CLASS="c8">[*580]</SPAN><SPAN CLASS="c2">  parallels. The reasonable doubt standard &quot;provides concrete substance for the presumption of innocence&quot; </SPAN><SPAN CLASS="c29"><SUP>n45</SUP></SPAN><SPAN CLASS="c2"> - and it similarly operates on the principle of minimizing false-positive errors. The Supreme Court has said in no uncertain terms that &quot;the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged.&quot; </SPAN><SPAN CLASS="c29"><SUP>n46</SUP></SPAN><SPAN CLASS="c2"> The purpose of the standard, as the Court put it, is &quot;to safeguard men from dubious and unjust convictions, with resulting forfeitures of life, liberty and property.&quot; </SPAN><SPAN CLASS="c29"><SUP>n47</SUP></SPAN><SPAN CLASS="c2"> Though the Court does not say so explicitly, its explanation for the reasonable doubt standard lies in a statement that false-positive errors should be avoided. The Court identifies the costs associated with a false positive - &quot;the possibility that he may lose his liberty ... and the certainty that he would be stigmatized by the conviction&quot; </SPAN><SPAN CLASS="c29"><SUP>n48</SUP></SPAN><SPAN CLASS="c2"> - and finds them too great to overcome reasonable doubt. In order to minimize the risk that a defendant will be erroneously deprived of his liberty (even though he has been granted due process of law), the burden of proof is placed on the government rather than the individual </SPAN><SPAN CLASS="c29"><SUP>n49</SUP></SPAN><SPAN CLASS="c2"> and is raised to a level that balances the defendant's &nbsp;</SPAN><SPAN CLASS="c8">[*581]</SPAN><SPAN CLASS="c2">  interest in his liberty against the government and society's interest in convicting the guilty. </SPAN><SPAN CLASS="c29"><SUP>n50</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Justice Harlan provided the most direct examination of the reasonable doubt standard as an error-minimization technique in his Winship concurrence. </SPAN><SPAN CLASS="c29"><SUP>n51</SUP></SPAN><SPAN CLASS="c2"> He opined that &quot;the choice of the standard for a particular variety of adjudication does, I think, reflect a very fundamental assessment of the comparative social costs of erroneous factual determinations.&quot; </SPAN><SPAN CLASS="c29"><SUP>n52</SUP></SPAN><SPAN CLASS="c2"> More specifically, he explained:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">The standard of proof influences the relative frequency of these two types of erroneous outcomes [conviction of the innocent and acquittal of the guilty]. If, for example, the standard of proof for a criminal trial were a preponderance of the evidence rather than proof beyond a reasonable doubt, there would be a smaller risk of factual errors that result in freeing guilty persons, but a far greater risk of factual errors that result in convicting the innocent. Because the standard of proof affects the comparative frequency of these two types of erroneous outcomes, the choice of the standard to be applied in a particular kind of litigation should, in a rational world, reflect an assessment of the comparative social disutility of each. </SPAN><SPAN CLASS="c29"><SUP>n53</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> The United States criminal justice system is framed around the belief that &quot;the disutility of convicting an innocent person far exceeds the disutility of finding a guilty person to be not guilty.&quot; </SPAN><SPAN CLASS="c29"><SUP>n54</SUP></SPAN><SPAN CLASS="c2"> Thus, in criminal cases, where the life, liberty, and reputation of the accused may be at stake, the reasonable doubt standard is not only necessary to protect against erroneous deprivation, </SPAN><SPAN CLASS="c29"><SUP>n55</SUP></SPAN><SPAN CLASS="c2"> but it is also &quot;indispensable to command the respect and confidence of the community.&quot; </SPAN><SPAN CLASS="c29"><SUP>n56</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">This latter point is crucial: the reasonable doubt standard and the presumption of innocence protect not only the accused against erroneous deprivation, &nbsp;</SPAN><SPAN CLASS="c8">[*582]</SPAN><SPAN CLASS="c2">  but also the general populous against fear of the criminal courts. As the Court put it, &quot;it is critical that the moral force of the criminal law not be diluted by a standard of proof that leaves people in doubt whether innocent men are being condemned.&quot; </SPAN><SPAN CLASS="c29"><SUP>n57</SUP></SPAN><SPAN CLASS="c2"> A standard that properly balances the interests of the accused against the interests of the prosecution helps people have confidence that the justice system will keep them safe not only from criminals but also from the government. The Court explained: &quot;It is also important in our free society that every individual going about his ordinary affairs have confidence that his government cannot adjudge him guilty of a criminal offense without convincing a proper factfinder of his guilt with utmost certainty.&quot; </SPAN><SPAN CLASS="c29"><SUP>n58</SUP></SPAN><SPAN CLASS="c2"> The principle of public confidence in the system is one to which this Note returns later in discussing the psychosocial influence of right-to-carry laws. </SPAN><SPAN CLASS="c29"><SUP>n59</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Though I have argued above that the American justice system structurally and theoretically prioritizes false negatives over false positives, this does not mean that Americans are satisfied in any particular case with the acquittal of a person believed to be guilty. Indeed, particularly visible or contentious acquittals, such as O.J. Simpson's, can dramatically shake the public's faith in the criminal justice system. Commentators have noted that &quot;the O.J. Simpson case is troublesome because it placed the criminal justice system ... on trial along with the accused.&quot; </SPAN><SPAN CLASS="c29"><SUP>n60</SUP></SPAN><SPAN CLASS="c2"> On the day the Simpson verdict was announced, the nation stood still waiting for the jury's decision, </SPAN><SPAN CLASS="c29"><SUP>n61</SUP></SPAN><SPAN CLASS="c2"> and when it came down, outrage was widespread. The Los Angeles Times found that, after the Simpson verdict, seventy percent of local residents had &quot;only some&quot; or &quot;very little&quot; confidence in the criminal justice system. </SPAN><SPAN CLASS="c29"><SUP>n62</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">In some sense, the outrage at the Simpson verdict suggests that the public believes that the false-positive minimization system is unsatisfactory. Here, people were widely horrified that a man they believed to be guilty was set free based on reasonable doubt, </SPAN><SPAN CLASS="c29"><SUP>n63</SUP></SPAN><SPAN CLASS="c2"> even if those rules are in place to protect innocent &nbsp;</SPAN><SPAN CLASS="c8">[*583]</SPAN><SPAN CLASS="c2">  men from being convicted. However, the Simpson example can be explained at least partly by the extraordinary nature of the case. </SPAN><SPAN CLASS="c29"><SUP>n64</SUP></SPAN><SPAN CLASS="c2"> More importantly, the public reaction to the Simpson verdict does not undermine the greater point that, despite fury or frustration at individual verdicts, the system works because of its structural mechanisms for preventing errors in general and particularly false positives.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Significantly, the reasonable doubt and presumption of innocence standards have not narrowed over time, nor do they currently appear to be narrowing even in the face of public reaction to cases like Simpson's. We have not seen, for example, the relaxation of the reasonable doubt standard to the one used in civil cases, </SPAN><SPAN CLASS="c29"><SUP>n65</SUP></SPAN><SPAN CLASS="c2"> under which Simpson was found liable for the murders. </SPAN><SPAN CLASS="c29"><SUP>n66</SUP></SPAN><SPAN CLASS="c2"> The courtroom side of the criminal justice system remains one that strongly prefers false negatives to false positives, as exemplified by the presumption of innocence and the reasonable doubt standard.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*584]</SPAN><SPAN CLASS="c2">  Of course, it is possible that increasingly permissive self-defense laws, described below, are themselves the structural response to public dissatisfaction with the false-positive-minimizing courtroom protections. As the next Section describes, self-defense laws demonstrate a societal conclusion that there is more social utility to allowing false positives than prioritizing false negatives when the imminent bodily harm of an innocent person is at stake.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">IV. False-Negative Minimization: Self-Defense Laws<BR>&nbsp;<BR> Self-defense laws have the opposite error-risk prioritizations from the presumption of innocence and reasonable doubt rules; self-defense laws minimize false negatives by tolerating some false positives. While a comprehensive examination of self-defense rules is beyond the scope of this Note, a brief overview will suffice to understand the way self-defense plays into the error-risk picture painted above. </SPAN><SPAN CLASS="c29"><SUP>n67</SUP></SPAN><SPAN CLASS="c2"> This Part summarizes the self-defense rules, and then turns to a discussion of the error-risk prioritizations of self-defense law.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Self-defense carves out an exception to the general rules that people are not allowed to use force against one another. Wayne LaFave provides a simple and concise summary of the law of self-defense in criminal law:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">One who is not the aggressor in an encounter is justified in using a reasonable amount of force against his adversary when he reasonably believes (a) that he is in immediate danger of unlawful bodily harm from his adversary and (b) that the use of such force is necessary to avoid this danger. </SPAN><SPAN CLASS="c29"><SUP>n68</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR>&nbsp;&nbsp;</SPAN><SPAN CLASS="c8">[*585]</SPAN><SPAN CLASS="c2">  This rule applies to all force and all threats, as long as the two are proportional. </SPAN><SPAN CLASS="c29"><SUP>n69</SUP></SPAN><SPAN CLASS="c2"> In the context of gun use, the force is often deadly force. In these circumstances, the proportionality rule is especially strict (at least in the abstract); it is generally impermissible to use deadly force to defend against non-deadly threats, </SPAN><SPAN CLASS="c29"><SUP>n70</SUP></SPAN><SPAN CLASS="c2"> except to protect one's home (or &quot;castle&quot;), </SPAN><SPAN CLASS="c29"><SUP>n71</SUP></SPAN><SPAN CLASS="c2"> or to effect a &quot;lawful arrest.&quot; </SPAN><SPAN CLASS="c29"><SUP>n72</SUP></SPAN><SPAN CLASS="c2"> Similarly, the Model Penal Code prohibits the use of deadly force where &quot;the actor knows that he can avoid the necessity of using such force with complete safety by retreating&quot; </SPAN><SPAN CLASS="c29"><SUP>n73</SUP></SPAN><SPAN CLASS="c2"> with the exception that no one is &quot;obliged to retreat from his dwelling or place of work.&quot; </SPAN><SPAN CLASS="c29"><SUP>n74</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">So how exactly does the rule of self-defense play into error risk calculus? Just as in the criminal prosecution scenario discussed above, the decision to use self-defense necessarily involves the risk that the decision-maker will be wrong about the facts. </SPAN><SPAN CLASS="c29"><SUP>n75</SUP></SPAN><SPAN CLASS="c2"> In the courtroom scenario, the zero-one decision is convict or acquit; in a self-defense situation, the zero-one decision is defend (with force) or do not. In the courtroom, a false-positive error occurs when an innocent man is convicted; in cases of self-defense, a false-positive error occurs when a self-defender erroneously assumes that another person poses an imminent danger and uses force against the perceived attacker. Conversely, in the courtroom, a false-negative error is the acquittal of a guilty man. With self-defense, a false-negative error is the erroneous perception by a self-defender that he is not in imminent danger, resulting in a failure to defend himself and causing him serious or even deadly harm.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*586]</SPAN><SPAN CLASS="c2">  A self-defense rule that prefers false-negative to false-positive errors (such as the type of rule that operates in the courtroom) would give self-defenders very little latitude to make mistakes; self-defense would be justified only when the self-defender could be certain (say, beyond a reasonable doubt) that he needed to use deadly force to protect himself or his home. A rule that prefers false-positive over false-negative errors, however, would give a self-defender a great deal of latitude to make errors. Either way, self-defense law is significantly more tolerant of false-positive errors than are the courtrooms. The error tolerance the law countenances in this arena can be observed in two ways: through the reliance on the reasonable belief of the self-defender and through the burden of proof to establish the defense.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The standard for evaluating decisions to use deadly force in self-defense is not whether the decision was correct, but merely whether it was reasonable. </SPAN><SPAN CLASS="c29"><SUP>n76</SUP></SPAN><SPAN CLASS="c2"> Self-defense is composed of four elements: imminence, necessity, proportionality, and intention to thwart an attack. </SPAN><SPAN CLASS="c29"><SUP>n77</SUP></SPAN><SPAN CLASS="c2"> Governing all of these parts, however, is the self-defender's reasonable belief in each. </SPAN><SPAN CLASS="c29"><SUP>n78</SUP></SPAN><SPAN CLASS="c2"> The notion of reasonableness is in tension with the idea that for any given situation there is an underlying truth (that is identifiable). </SPAN><SPAN CLASS="c29"><SUP>n79</SUP></SPAN><SPAN CLASS="c2"> Reasonableness is at play in the general courtroom situation discussed above; </SPAN><SPAN CLASS="c29"><SUP>n80</SUP></SPAN><SPAN CLASS="c2"> in that scenario, it cuts in favor of false negatives - the reasonable doubt standard protecting against erroneous convictions - but in the self-defense scenario, it cuts in favor of false positives - reasonableness gives a self-defender latitude to be wrong in his assessment of a situation. </SPAN><SPAN CLASS="c29"><SUP>n81</SUP></SPAN><SPAN CLASS="c2"> Drawing on the Hattori example from earlier, </SPAN><SPAN CLASS="c29"><SUP>n82</SUP></SPAN><SPAN CLASS="c2"> it was at least arguably reasonable for Mr. Peairs to believe his life and home were in danger and that deadly force was &nbsp;</SPAN><SPAN CLASS="c8">[*587]</SPAN><SPAN CLASS="c2">  necessary to protect them. Thus, even though we know, ex post, that Mr. Peairs was wrong in his assessment, the requirement of reasonableness allows his defensive actions to be justified based on his own perceptions.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">There are two tests for the reasonableness of a self-defender's use of deadly force: objective (what a reasonable person would believe) and subjective (what the particular self-defender believed). </SPAN><SPAN CLASS="c29"><SUP>n83</SUP></SPAN><SPAN CLASS="c2"> The choice of whether to use an objective or subjective test has great consequence for considering error tolerance. The subjective test is distinctly more tolerant of error on the part of the self-defender than is the objective test. In fact, the choice of test can be seen as the result, rather than the source, of the error-tolerance level:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">In self-defense law, the choice has often been framed in terms of mistake: If a defendant makes an honest mistake in believing that he is being unlawfully attacked, is he nevertheless entitled to use defensive force? If the answer is an unqualified &quot;yes,&quot; the law adopts a subjective test. If the answer is a qualified &quot;yes&quot; - specifically, if his honest mistake must be &quot;reasonable&quot; in order to provide a defense - then the law adopts an objective test. </SPAN><SPAN CLASS="c29"><SUP>n84</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> This question can be reframed through the lens of error tolerance: is the benefit of individuals being able to protect themselves greater than the cost of mistaken defenses? If the answer is yes, the test will be subjective. If it is no, or a qualified yes, the test will be objective.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Nonetheless, the objective test is not wholly immune to false positives either. First, even the objective test has elements of subjectivity that allow room for mistakes. Even a &quot;reasonable man&quot; can make an incorrect assessment of danger, imminence, necessity, or proportionality - the four evaluations required for a successful self-defense argument. Thus, even the most strict standard (the objective reasonableness standard) leaves a good deal of room for false positives (and accordingly very little room for false negatives).</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Another way to view the error tolerance in a self-defense context is through the burden placed on the self-defender who uses self-defense to defeat liability. Generally, self-defense is an affirmative defense to both civil and criminal charges, which means that the defendant must assert and prove he acted in self-defense in order for his actions to be legally justified </SPAN><SPAN CLASS="c29"><SUP>n85</SUP></SPAN><SPAN CLASS="c2"> self-defense. The Supreme &nbsp;</SPAN><SPAN CLASS="c8">[*588]</SPAN><SPAN CLASS="c2">  Court has not defined the minimum burden acceptable for a defendant to establish that she acted in self-defense, but it has set a ceiling: an instruction that &quot;self-defense evidence&quot; must &quot;satisfy the preponderance standard&quot; would be unconstitutional. </SPAN><SPAN CLASS="c29"><SUP>n86</SUP></SPAN><SPAN CLASS="c2"> In other words, the defendant need not prove by greater than fifty-percent that his actions met the self-defense requirement; an acceptable standard must be some amount less than that. The lower the burden on the defendant to prove self-defense, the more society can be understood to value self-defense as a justification and accept the errors that come with it.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Indeed, the logic behind the self-defense rule is that there is a social benefit to allowing individuals to defend themselves against attack. As LaFave explains, it is &quot;only just&quot; for people to be able to use force to defend themselves against attack. </SPAN><SPAN CLASS="c29"><SUP>n87</SUP></SPAN><SPAN CLASS="c2"> He writes, &quot;if A killed B to prevent B from killing him, then the defense of self-defense comes into play because the purposes of the criminal law are better served by A's acquittal.&quot; </SPAN><SPAN CLASS="c29"><SUP>n88</SUP></SPAN><SPAN CLASS="c2"> Professor Paul Robinson puts it slightly differently, describing the justification for defensive force in a way that sounds remarkably consistent with a false-positive-minimization regime: &quot;One may even permit the killing of three attacking thugs to save one innocent person, though the harm caused is clearly greater, because society highly values the protection of innocents and deplores unjustified aggression.&quot; </SPAN><SPAN CLASS="c29"><SUP>n89</SUP></SPAN><SPAN CLASS="c2"> The breadth of self-defense rules, and their universality, make clear that the principles behind the right to self-defense are as deeply ingrained in the American psyche as are false-negative-preference regimes of reasonable doubt and presumption of innocence, creating a tension between the two.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Thus far, this Note has reviewed two different legal scenarios and the corresponding error preference. In the courtroom, false-negative errors are preferred, and in situations of self-defense, the law favors false-positive errors. These two legal situations are in direct tension, which can be understood in two ways. First, this tension is not necessarily problematic. Indeed, it can be viewed as a balance, each side of which is necessary to keep the other in check. Too great a preference for false negatives (in the courtroom) would leave crime victims insufficiently protected; too great a preference for false positives (in individual uses of self-defense) would leave perceived criminals insufficiently protected. When gun laws change to become more restrictive or, as we have more commonly seen recently, more permissive, this balance shifts. That shift should be the focus of analytical inquiry; instead of merely examining how crime rates change in response to changing gun laws, policy-makers should consider whether pushing towards a false-positive-prioritizing regime with the passage of more permissive gun laws is helpful or harmful to society.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*589]</SPAN><SPAN CLASS="c2">  Second, though self-defense rules favor false positives, they still require an affirmative ex-post showing in a court of law that the use of self-defense by a defendant was justified. There the self-defense rules will be put in direct tension with the reasonable doubt and presumption of innocence rules. The fact that self-defense protections operate only ex post mitigates their false-positive-prioritization effects; a self-defender might fail to use a gun, reasonably and legally, for fear that the false-positive-prevention mechanisms of the court system that may later judge her will fail. The very nature of self-defense, with its requirement of imminent harm, means that it is impossible to make ex-ante adjudications of whether a self-defender's decision will grant her legal immunity under the self-defense doctrine.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">So while the American system, from a structural perspective, clearly contemplates defensive gun use, and its attendant false-positive preference, it often requires the decision to take a false-positive error risk (shooting in self-defense) to be justified ex post in court. The passage of permissive gun laws, including right-to-carry laws, would seem to imply an acceptance (or even an encouragement) of more frequent legally justified defensive gun use, </SPAN><SPAN CLASS="c29"><SUP>n90</SUP></SPAN><SPAN CLASS="c2"> and, accordingly, of false-positive-preference decisions. Although ex-post rationalizations may still be necessary, potentially minimizing the magnitude of this shift, the shift remains nonetheless.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">V. Locating Gun Laws in Error-Preference Models<BR>&nbsp;<BR> With the general error-tolerance landscape of the law laid out, I now turn to considering how private ownership of guns fits into this picture and affects the balance of error risk. This Part will first examine the state of gun laws in America, revealing a wide and growing acceptance of the use of guns in self-defense, which indicates a growing tolerance for false positives. This Part then examines the implications of that shift, and how one might contextualize social responses, by addressing the social implications of expanding the use of self-defense. Finally, it considers the expected societal response to this shift and whether there is a moral imperative to use either a false-positive-or false-negative-minimizing system.</SPAN></P>
+<P CLASS="c9"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*590]</SPAN><SPAN CLASS="c2">&nbsp;</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">A. Changing Gun Laws<BR>&nbsp;<BR> Americans are allowed to keep their guns - or prohibited from doing so - mostly according to a variety of state (rather than federal) restrictions. </SPAN><SPAN CLASS="c29"><SUP>n91</SUP></SPAN><SPAN CLASS="c2"> There are four broad categories of state gun control laws: bans on certain firearms; sales and purchase restrictions; sentence enhancement laws; and possession restrictions. </SPAN><SPAN CLASS="c29"><SUP>n92</SUP></SPAN><SPAN CLASS="c2"> For consideration of defensive gun uses, it is the last category that is most relevant, because possession restrictions bear directly upon the ability of citizens to carry weapons for self-defense under the law. Possession restrictions are what expand the circumstances and opportunities for the exercise of the false-positive-preferring self-defense doctrine discussed above. This choice can be understood to be at the expense of the use of the false-negative-preferring criminal justice system, because a potential criminal who is shot and killed by a self-defender is not going to be arrested, tried, and have his guilt adjudicated in a court of law.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Only two states - Vermont and Alaska - do not require an individual to have a permit to carry a concealed weapon. </SPAN><SPAN CLASS="c29"><SUP>n93</SUP></SPAN><SPAN CLASS="c2"> Every other state has laws that are referred to variously as &quot;concealed-carry&quot; and &quot;right-to-carry&quot; (RTC) laws. Thirty-six states can be characterized as &quot;shall-issue&quot; concealed-carry states, </SPAN><SPAN CLASS="c29"><SUP>n94</SUP></SPAN><SPAN CLASS="c2"> because their law maintains that most individuals, with a few objective limits, shall be issued a concealed-carry permit upon application. </SPAN><SPAN CLASS="c29"><SUP>n95</SUP></SPAN><SPAN CLASS="c2"> There are also &nbsp;</SPAN><SPAN CLASS="c8">[*591]</SPAN><SPAN CLASS="c2">  &quot;may-issue&quot; states, in which permit applicants must demonstrate good cause for their permit before it is approved. </SPAN><SPAN CLASS="c29"><SUP>n96</SUP></SPAN><SPAN CLASS="c2"> Eleven states have these discretionary permits of varying degrees of restrictiveness. </SPAN><SPAN CLASS="c29"><SUP>n97</SUP></SPAN><SPAN CLASS="c2"> Finally, two states make it impossible or nearly impossible to receive concealed-carry permits. </SPAN><SPAN CLASS="c29"><SUP>n98</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">These numbers are significant on their own; more than two-thirds of American states will issue concealed-carry permits to almost anyone who wants them. The numbers become more significant as part of a trend, however. Concealed-carry laws began in the United States in the 1920s and 1930s; before that, states either banned concealed weapons entirely or permitted them freely. </SPAN><SPAN CLASS="c29"><SUP>n99</SUP></SPAN><SPAN CLASS="c2"> The new laws states enacted were based largely on a model law that prohibited unlicensed concealed carrying. </SPAN><SPAN CLASS="c29"><SUP>n100</SUP></SPAN><SPAN CLASS="c2"> By 2003, twenty-one states had passed more restrictive concealed-carry laws, either discretionary permitting or flat-out prohibitions on concealed carrying. </SPAN><SPAN CLASS="c29"><SUP>n101</SUP></SPAN><SPAN CLASS="c2"> Since 2003, however, this trend has reversed: eight states have either enacted RTC laws or adjusted their may-issue laws to become shall issue. </SPAN><SPAN CLASS="c29"><SUP>n102</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">&nbsp;</SPAN><SPAN CLASS="c8">[*592]</SPAN><SPAN CLASS="c2">  If more people are being allowed to carry concealed weapons, then more people have the opportunity to shoot in self-defense. Though any individual shooting is not more or less likely to be erroneous, the greater frequency of defensive shootings that RTC laws allows means that there will be a greater total number of errors (even if the rate of error remains the same). Thus, the movement in favor of RTC laws, at least in theory, creates more opportunities for false-negative-minimizing defensive shootings.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Equally important, though less prevalent than RTC laws, is an expansion of the Castle Doctrine. Historically, the Castle Doctrine suspends the duty to retreat and permits the use of deadly force to protect one's home. </SPAN><SPAN CLASS="c29"><SUP>n103</SUP></SPAN><SPAN CLASS="c2"> However, the new NRA-backed Castle Doctrine legislation expands this exception to include places other than one's home; indeed, to any place one is legally entitled to be. The NRA describes its the legislation as follows:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">Castle Doctrine, in essence, simply places into law what is a fundamental right: self-defense. If a person is in a place he or she has a right to be - in the front yard, on the road, working in their office, strolling in the park - and is confronted by an armed predator, he or she can respond in force in defense of their lives. Castle Doctrine also protects the law-abiding from criminal and civil charges for defending themselves against an attacker whereby, after enduring the trauma of a violent attack, they aren't again tied to the tracks of a drawn-out, nightmarish legal battle that could derail their financial future. </SPAN><SPAN CLASS="c29"><SUP>n104</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> In April 2005, Florida became the first state to enact this new Castle Doctrine into law. </SPAN><SPAN CLASS="c29"><SUP>n105</SUP></SPAN><SPAN CLASS="c2"> In the following year and a half, eight other states - Alabama, Arizona, Georgia, Idaho, Indiana, Kentucky, Mississippi, and South Dakota - followed suit. </SPAN><SPAN CLASS="c29"><SUP>n106</SUP></SPAN><SPAN CLASS="c2"> On September 1, 2007, a particularly strong law, extending Castle-Doctrine protection to vehicles and workplaces, went into effect in Texas. </SPAN><SPAN CLASS="c29"><SUP>n107</SUP></SPAN><SPAN CLASS="c2"> The Castle Doctrine is a particularly important barometer for measuring error tolerance, because, by permitting (or even encouraging) increased defensive gun use, it strongly favors the false-positive side of the error-risk balance.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">As noted in Part II, in courtroom adjudications of guilt or innocence, the law favors false negatives, but in the self-defense context the preference is for false positives. By generating more and more circumstances in which individuals &nbsp;</SPAN><SPAN CLASS="c8">[*593]</SPAN><SPAN CLASS="c2">  are allowed to, in a moment, adjudicate guilt and innocence, the increasing number of shall-issue RTC laws and particularly the emergence of the expanded Castle Doctrine shifts the burden of law enforcement from the government to the individual, deputizing private citizens. In so doing, these legislative changes add significant weight to the false-positive-preferring side of the error-risk balance.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">B. Implications of Changing Gun Laws<BR>&nbsp;<BR> In addition to broadening the category of shootings that are considered legal, more permissive gun laws have a number of other implications, both practical and theoretical. The shift in the laws may create a negative feedback cycle of confidence in the police. It also may lead to an increase in vigilante justice. Finally, it may signal a moral conclusion about the relative value of different error risks when human life is on the line. Each of these possible consequences is discussed in turn.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">First, the shift toward legalizing defensive gun use may create a self-reinforcing effect of weakening confidence in the power of government as a law enforcement agency: we do not have confidence in the police, so we need to protect ourselves; because we are protecting ourselves, the role of the police (and therefore our confidence in them) diminishes. The cycle self-perpetuates. The notion that personal possession of firearms may shift attitudes about law enforcement is not novel. In 1932, one homicide scholar stated that &quot;the possession of firearms gives a false sense of security and encourages recklessness and arrogance.&quot; </SPAN><SPAN CLASS="c29"><SUP>n108</SUP></SPAN><SPAN CLASS="c2"> The sense of security lulls people into thinking formal law enforcement is unnecessary, while the attendant recklessness underscores the need for it.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Lack of confidence in the ability of the police to stop crimes is often used as a justification for RTC laws and the use of guns in self-defense. This is rarely framed as abject mistrust of the police; instead, it is argued that the lack of confidence stems from the pragmatic notion that even the best equipped and most well-intentioned police cannot stop crimes in progress. Gary Kleck argues, for instance, that the idea &quot;that citizens can depend on police for effective protection&quot; is &quot;simply untrue.&quot; </SPAN><SPAN CLASS="c29"><SUP>n109</SUP></SPAN><SPAN CLASS="c2"> He elaborates:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">It implies that police can serve the same function as a gun in disrupting a crime in progress, before the victim is hurt or loses property. Police cannot do this, and indeed do not themselves even claim to be able to do so. Instead, police primarily respond reactively to crimes after they have occurred, questioning the victim and other witnesses in the hope that they can apprehend the criminals, make them available for prosecution &nbsp;</SPAN><SPAN CLASS="c8">[*594]</SPAN><SPAN CLASS="c2">  and punishment, and thereby deter other criminals from attempting crimes. </SPAN><SPAN CLASS="c29"><SUP>n110</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> The argument that people should be allowed to carry guns because of the inability of police to stop crimes in progress was raised immediately and vociferously after the tragic shootings at Virginia Polytechnic Institute and State University on April 16, 2007.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">When a disturbed student at Virginia Tech went on a violent rampage, killing thirty-two people before turning the gun on himself, </SPAN><SPAN CLASS="c29"><SUP>n111</SUP></SPAN><SPAN CLASS="c2"> advocates of gun rights immediately cited the massacre as evidence that individuals should more readily be allowed to carry guns to defend themselves. Ted Nugent, a member of the National Rifle Association's board of directors, made an impassioned plea for restrictive gun laws to be abandoned in the wake of the Virginia Tech shootings:</SPAN></P>
+<P CLASS="c9"></P>
+<P CLASS="c28"><SPAN CLASS="c2">Embrace the facts, demand upgrade and be certain that your children's school has a better plan than Virginia Tech or Columbine. Eliminate the insanity of gun-free zones, which will never, ever be gun-free zones. They will only be good guy gun-free zones, and that is a recipe for disaster written in blood on the altar of denial. </SPAN><SPAN CLASS="c29"><SUP>n112</SUP></SPAN><BR><SPAN CLASS="c2">&nbsp;<BR> At least one legislative initiative picked up on Nugent's plea: Texas Governor Rick Perry proposed, in the wake of the Virginia Tech shootings, that all licensed gun owners be allowed to carry weapons on their persons (in other words, carry concealed weapons) rather than just keeping them in their homes. </SPAN><SPAN CLASS="c29"><SUP>n113</SUP></SPAN><SPAN CLASS="c2"> The argument is that even if the police cannot get there in time, &quot;brave, average, armed citizens [can] neutralize&quot; a lunatic gunman and thus save innocent lives. </SPAN><SPAN CLASS="c29"><SUP>n114</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Situations like Virginia Tech provide compelling examples in which it is hard to imagine a defensive shooting being in error. But most situations in which individuals experience themselves to be under threat are not as cut and dry as Virginia Tech; consider again the example of the Japanese exchange student at the beginning of this Note. All defensive shootings bear some measure of risk that a person will be shot erroneously; the question that is important from a policy perspective is whether society believes lay citizens &nbsp;</SPAN><SPAN CLASS="c8">[*595]</SPAN><SPAN CLASS="c2">  or law-enforcement agents are in a better position to make this decision. One rationalization for RTC laws might be that allowing more defensive shootings by citizens (and therefore proportionally fewer by police) will result in fewer overall errors.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Indeed, some gun rights advocates cite police incompetence as a reason for the passage of RTC laws in a way that echoes this Note's error-risk framework without invoking it explicitly. For example, in his argument for why individuals should be armed, Lott notes that &quot;police accidentally kill as many as 330 innocent individuals annually.&quot; </SPAN><SPAN CLASS="c29"><SUP>n115</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Police errors are important in the risk calculus - indeed, decisions by police officers to shoot (or not to shoot) suspects are subject to similar high false-positive-error risk as civilian defensive shooting decisions. High-profile cases of erroneous (but not criminal) police shootings regularly make headlines; take, for example, the case of Amadou Diallo in New York. </SPAN><SPAN CLASS="c29"><SUP>n116</SUP></SPAN><SPAN CLASS="c2"> These errors make less compelling the notion that RTC laws, and citizen defensive shootings, cause an overall net increase in the number of erroneous shootings. Still, police shootings are different from civilian shootings in many important ways: space does not permit a thorough discussion of the distinction, but, at a minimum, it is significant to note that police make their decisions within the regulated, monitored confines of the criminal justice system, and are subject to extensive training, supervision, and detailed rules about the use of weapons.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The sense that police are inadequate to protect American citizens is also important in the discussion of self-defense because it further blurs the already fuzzy line between self-defense and vigilantism. Generally, defensive gun use can be &quot;distinguished from other forms of forceful activity directed at criminals, such as vigilantism, or activities of the criminal justice system ... such as police making arrests&quot; </SPAN><SPAN CLASS="c29"><SUP>n117</SUP></SPAN><SPAN CLASS="c2"> or police shootings. Although all &quot;can be coercive&quot; and &quot;may be done by armed persons,&quot; there is a significant characteristic of vigilantism in the criminal justice system that is (theoretically) absent from self-defense: the pursuit of ex-post justice rather than ex-ante prevention. </SPAN><SPAN CLASS="c29"><SUP>n118</SUP></SPAN><SPAN CLASS="c2"> Nonetheless, there are, as Kleck notes, &quot;some parallels.&quot; Historically, &quot;vigilantism, in the true sense of collective private force used for social control purposes, flourished where legal controls were weakest, such as frontier areas.&quot; </SPAN><SPAN CLASS="c29"><SUP>n119</SUP></SPAN><SPAN CLASS="c2"> Today, where the police force is viewed as inadequate for &quot;social control purposes,&quot; self-defense fills in the gap. Indeed, Kleck acknowledges, &quot;the late twentieth century substitute &nbsp;</SPAN><SPAN CLASS="c8">[*596]</SPAN><SPAN CLASS="c2">  for vigilantism is individualistic resistance to criminals by those directly victimized.&quot; </SPAN><SPAN CLASS="c29"><SUP>n120</SUP></SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The result may be that situations previously characterized as vigilantism will now, under more permissive RTC laws and particularly where the standard for self-defense is subjective, be considered legitimate self-defense. This bears on the error-risk calculus in two ways. First, it increases in raw numbers the opportunities for citizen shootings and the attendant false-positive-error preferences. Second, the increased room for permissible vigilante activity suggests a systematic shift in whom we as a society trust to keep us safe - fellow citizens or the government. When we pick the latter, we tend to impose the false-positive-minimizing rules; more opportunities for defense that borders on vigilantism puts weight on the false-negative-minimizing side of the scale. This vigilante effect can be viewed as the other side of the closely-related concept of decreasing confidence in law enforcement.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Though this Note intends to be non-normative in its analysis, it would be remiss not to consider the moral implications of shifting to a system that increasingly tolerates false positives through increasingly permissive gun laws. It is hard to avoid the moral undertones of the n guilty men analysis discussed above; </SPAN><SPAN CLASS="c29"><SUP>n121</SUP></SPAN><SPAN CLASS="c2"> the suggestion for any n ratio is that taking the life of an innocent person is morally unacceptable (by varying degrees). Accordingly, it might be morally indefensible to shift away from a false-positive-minimization system by passing more permissive gun laws.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Still, a strong argument can be made that permissive gun laws (and other false-positive tolerating systems) are not only morally acceptable but actually morally required if the false positives that result (erroneous defensive shootings) cause an overall reduction in the taking of innocent lives. Professors Cass R. Sunstein and Adrian Vermeule recently made this argument in the context of capital punishment. </SPAN><SPAN CLASS="c29"><SUP>n122</SUP></SPAN><SPAN CLASS="c2"> They argue that if capital punishment can be statistically shown to deter future crime, </SPAN><SPAN CLASS="c29"><SUP>n123</SUP></SPAN><SPAN CLASS="c2"> it is the moral responsibility of society to use it. Their moral argument can easily be applied to the gun control debate specifically with respect to deterrence, but it also bears weight as a broader response to false-positive minimization.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">On the one hand, Sunstein and Vermeule's argument can be seen as a refutation of a false-positive-minimization philosophy. If any particular mechanism of justice, be it capital punishment or the increased opportunity for legally justified defensive shootings, trades the deprivation of one individual for the preservation &nbsp;</SPAN><SPAN CLASS="c8">[*597]</SPAN><SPAN CLASS="c2">  of more than one other, it should be morally required, false positives notwithstanding. To the extent that self-defense laws have a deterrent effect, </SPAN><SPAN CLASS="c29"><SUP>n124</SUP></SPAN><SPAN CLASS="c2"> they seem eminently consistent with the Sunstein and Vermeule moral obligation theory discussed above.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Though the moral obligation theory can thus be seen as supporting the false-negative-minimizing self-defense system, it can also be seen to be consistent with a false-positive-minimization system. Sunstein and Vermeule's argument can be characterized as suggesting that society look not at the risk of a false positive in each individual case but rather at the risk of error in society as a statistical whole. If each defensive shooting saves numerous other innocent lives (which would be taken in error through crime), then a true false-positive-minimization system might prefer erroneous deprivation of a single individual (by shooting someone who is not committing a crime and thus depriving him of his life or health) to limit the number of false positives made on the whole. Either way, the Sunstein and Vermeule argument provides a strong counterweight to any suggestion that it is morally necessary to minimize false positives by relying on the criminal justice system to keep us safe rather than permitting self-defense.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">This Note has attempted to put a new theoretical twist on a topic of fervent academic and political debate: the implication of any connection between gun laws and crime rates. Rather than merely looking at the correlative relationship between gun laws and crime, I suggest the implications that permissive gun laws have on error risk must be considered. This argument is not empirical but rather theoretical (and perhaps moral). While empirical analysis of this subject might be possible, it would be extremely difficult. More importantly, empirics are not necessary to prove the point I make: the justice system can be framed as a balance of error risk that is based on a social evaluation of the &quot;comparative social disutility&quot; </SPAN><SPAN CLASS="c29"><SUP>n125</SUP></SPAN><SPAN CLASS="c2"> of false positives and false negatives in different contexts. Social disutility is measured not by the rate of the errors but rather by the cost of each error to society. Though the assessment of cost might be measured empirically, decisions about cost tend to be made by courts on the basis of moral value judgments. My argument here is that the value judgment about the cost of an erroneous defensive shooting must become a part of the conversation about RTC and other gun laws.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">If it were possible to make an empirical assessment of cost, in the end, the debate may be exactly the deontological type that Sunstein and Vermeule describe with respect to capital punishment. </SPAN><SPAN CLASS="c29"><SUP>n126</SUP></SPAN><SPAN CLASS="c2"> Here the question would be whether the moral arguments underpinning self-defense rules (the moral propriety &nbsp;</SPAN><SPAN CLASS="c8">[*598]</SPAN><SPAN CLASS="c2">  of protecting oneself and others and the general deterrent effect) trump any statistical proof that more or greater harm results from permitting individuals to engage in that defense. Sunstein and Vermeule suggest that whichever regime results in fewest number of deaths is &quot;morally obligatory.&quot; </SPAN><SPAN CLASS="c29"><SUP>n127</SUP></SPAN><SPAN CLASS="c2"> At the very least, the question is one of democratic policy preference.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">This is significant because discussions of gun policy are not merely academic, and currently the policy overemphasizes crime rates as the only significant standard of analysis. As &quot;policymakers, voters, and the courts ... decide the appropriate trade-off between safety, on the one hand, and public expenditure and imposition, on the other,&quot; </SPAN><SPAN CLASS="c29"><SUP>n128</SUP></SPAN><SPAN CLASS="c2"> they rely on &quot;fundamental assumptions&quot; about &quot;whether reducing the number of guns in private hands would lead to more or less violent crime.&quot; </SPAN><SPAN CLASS="c29"><SUP>n129</SUP></SPAN><SPAN CLASS="c2"> Instead, they should also be considering the consequences of the error-risk shift, so that the cost-benefit trade-offs and the moral implications they create become conscious policy decisions rather than collateral effects. Specifically, policy-makers should consider the impact of increasingly permissive gun laws on the risk of erroneous defensive shootings and how that risk plays into not only the moral equation but also public confidence in the justice system and in law enforcement.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">Discussions over gun policy are likely to get even more heated as the Supreme Court considers the scope of the Second Amendment for the first time in sixty-eight years. </SPAN><SPAN CLASS="c29"><SUP>n130</SUP></SPAN><SPAN CLASS="c2"> The Court will consider the appeal of District of Columbia v. Heller, </SPAN><SPAN CLASS="c29"><SUP>n131</SUP></SPAN><SPAN CLASS="c2"> in which the D.C. Circuit relied in part on the Second Amendment's premise that guns would be kept by citizens for &quot;self-defense, ... understood as resistance to either private lawlessness or the depredations of a tyrannical government (or a threat from abroad).&quot; </SPAN><SPAN CLASS="c29"><SUP>n132</SUP></SPAN><SPAN CLASS="c2"> Though Heller does not speak explicitly to the guns and crime debate, it does nod to the significance of the self-defense doctrine, and it takes seriously the notion that there is a connection between the possession of a gun for self-defense and the prevention of crime. Furthermore, as the case is adjudicated in the Supreme Court, it is likely to reinvigorate debate &nbsp;</SPAN><SPAN CLASS="c8">[*599]</SPAN><SPAN CLASS="c2">  on both sides of the gun control aisle over the propriety of expansive or restrictive doctrines. </SPAN><SPAN CLASS="c29"><SUP>n133</SUP></SPAN><SPAN CLASS="c2"> Error-risk analysis must be a part of those debates.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">The error-risk approach to criminal justice policy has implications above and beyond gun laws; indeed, it could be applied to any other policy regime that might disrupt the current tension. For example, using error risk as a lens to examine the death penalty, one must ask whether a shift towards a prohibition on the use of capital punishment </SPAN><SPAN CLASS="c29"><SUP>n134</SUP></SPAN><SPAN CLASS="c2"> will put a finger on the scale in favor of false-positive minimization. Relaxation of restrictions on wiretapping </SPAN><SPAN CLASS="c29"><SUP>n135</SUP></SPAN><SPAN CLASS="c2"> might cut the other way, as the innocent are more frequently caught-up or convicted. Though the issue of legal defensive gun use (and the laws that permit it) fits most crisply into an error-risk framework, this analytical tool can provide a valuable new angle through which to examine other policy projects.</SPAN></P>
+<P CLASS="c28"><SPAN CLASS="c2">*</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8">Legal Topics: </SPAN><BR><BR><SPAN CLASS="c2">For related research and practice materials, see the following legal topics:<BR>Contracts LawNegotiable InstrumentsEnforcementDefensesGeneral OverviewCriminal Law &amp; ProcedureCriminal OffensesWeaponsUseSimple UseElementsCriminal Law &amp; ProcedureSentencingForfeituresGeneral Overview</SPAN></P>
+</DIV>
+<BR><DIV CLASS="c5"><P CLASS="c6"><SPAN CLASS="c8"> FOOTNOTES:<BR></SPAN><BR><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n2.&nbsp; Wayne LaPierre &amp; James Jay Baker, Shooting Straight: Telling the Truth About Guns in America 60-61 (2002) (citing Timothy Wheeler, Opinion, Life and Death in the City: Two Restaurants, Two Robberies, Two Outcomes, San Diego Union Trib., May 31, 2000, at B-7). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n3.&nbsp; Adam Nossiter, Judge Awards Damages in Japanese Youth's Death, N.Y. Times, Sept. 16, 1994, at A12; see also Ian Ayres &amp; John J. Donohue, Shooting Down the &quot;More Guns, Less Crime&quot; Hypothesis, 55 Stan. L. Rev. 1193, 1200 n.12 (2003).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n4.&nbsp; Gary Kleck, The Nature of Defensive Gun Use and the Deterrence and Displacement of Crime, in The Great American Gun Debate: Essays on Firearms &amp; Violence 252 (Don B. Kates, Jr. &amp; Gary Kleck eds., 1997) [hereinafter Kleck, The Nature of Defensive Gun Use]. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n5.&nbsp; Philip J. Cook &amp; Jens Ludwig, Pragmatic Gun Policy, in Evaluating Gun Policy: Effects on Crime and Violence 3 (Jens Ludwig &amp; Philip J. Cook eds., 2003) (citing Philip J. Cook &amp; Jens Ludwig, Guns in America (1996)). Gary Kleck estimates the number as &quot;over 230 million.&quot; Gary Kleck, The Frequency of Defensive Gun Use, in The Great American Gun Debate, supra note 4, at 184 [hereinafter Kleck, The Frequency of Defensive Gun Use]. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n6.&nbsp; On the anti-gun control side, see, for example, Gary Kleck, Keeping, Carrying, and Shooting Guns for Self-Protection, in The Great American Gun Debate, supra note 4, at 202-03 [hereinafter Kleck, Keeping, Carrying, and Shooting Guns for Self-Protection] (describing the finding that 89% of gun owners have a gun mainly or partly for protection). With a more neutral perspective, see, for example, Cook &amp; Ludwig, supra note 5, at 2 (&quot;For many of those who do keep a gun, the paramount reason is self-protection.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n7.&nbsp; Philip J. Cook et al., The Gun Debate's New Mythical Number: How Many Defensive Uses Per Year?, 16 J. Pol'y Analysis &amp; Mgmt. 463, 468 (1997). This includes incidents in which guns were fired in self-defense and those in which guns were merely brandished. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n8.&nbsp; See id. (supporting the NCVS estimate); see also David Hemenway, Private Guns, Public Health (2004) (same); Gary Kleck &amp; Marc Getz, Armed Resistance to Crime: The Prevalence and Nature of Self-Defense with a Gun, 86 J. Crim. L. &amp; Criminology 150, 164 (1995) (estimating up to 2.5 million defensive gun uses per year); Kleck, The Frequency of Defensive Gun Use, supra note 5, at 160-75 (describing the NCVS as a dramatic underestimate). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n9.&nbsp; Kleck, Keeping, Carrying, and Shooting Guns for Self-Protection, supra note 6, at 193. As John Donohue has explained, brandishing incidents, in which a particular crime or killing is averted by the potential victim brandishing a gun and scaring off the assailant, may represent &quot;crime transfer&quot; rather than &quot;crime reduction.&quot; John Donohue, Guns, Crime, and the Impact of State Right-to-Carry Laws, 73 Fordham L. Rev. 623, 627 (2004). For more on the nature of defensive gun use incidents, see Kleck, The Nature of Defensive Gun Use, supra note 4, at 225-26 tbl.8.1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n10.&nbsp; Kleck, Keeping, Carrying, and Shooting Guns for Self-Protection, supra note 6, at 194. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n11.&nbsp; Id. at 195, 196-97 tbl.7.1, 199 &amp; 202. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n12.&nbsp; See, e.g., John R. Lott, Jr., More Guns, Less Crime: Understanding Crime and Gun-Control Laws (2d ed. 2000) (concluding that guns make us safer); Ayres &amp; Donohue, supra note 3, at 1200 n.12; Kleck &amp; Getz, supra note 8. For a summary of the literature on this topic, see Gregg Lee Carter, Gun Control in the United States: A Reference Handbook 18-20 (2006). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n13.&nbsp; Philip J. Cook &amp; Jens Ludwig, Gun Violence 36 (2000). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n14.&nbsp; See, e.g., John R. Lott, The Bias Against Guns 8-11 (2003) (providing anecdotal evidence of very &quot;determined and motivated criminals [who] altered their plans&quot; because of knowledge or suspicion that their original targets would be armed); see also Gary Kleck, Targeting Guns: Firearms and Their Control (1997) [hereinafter Kleck, Targeting Guns] (reviewing research and concluding that gun control laws are ineffective in preventing violent crime); John R. Lott &amp; David Mustard, Crime, Deterrence, and Right-to-Carry Concealed Handguns, 26 J. Legal Stud. 1, 1 (1997) (finding that &quot;allowing citizens to carry concealed weapons deters violent crimes, without increasing accidental deaths&quot;); William Alan Bartley &amp; Mark Cohen, The Effect of Concealed Weapons Laws: An Extreme Bound Analysis, 36 Econ. Inquiry 258 (1998) (supporting Lott and Mustard's findings on deterrence effects); Dan A. Black &amp; Daniel S. Nagin, Do Right-to-Carry Laws Deter Violent Crime?, 27 J. Legal. Stud. 209 (1998) (supporting Lott and Mustard's findings); Stephen G. Bronars &amp; John R. Lott, Criminal Deterrence, Geographic Spillovers, and the Right to Carry Concealed Handguns, 82 Am. Econ. Rev. 475, 479 (1998) (concluding that &quot;concealed handguns deter criminals and that the largest reductions in violent crime will be obtained when all the states adopt these laws&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n15.&nbsp; Lott, supra note 12, at 19. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n16.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n17.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n18.&nbsp; Cf. Cass R. Sunstein &amp; Adrian Vermeule, Is Capital Punishment Morally Required? Acts, Omissions, and Life-Life Tradeoffs, 58 Stan. L. Rev. 703, 705 (2005) (arguing that, if capital punishment is successfully proven to have a deterrent effect, it &quot;may be morally required, not for retributive reasons, but rather to prevent the taking of innocent lives&quot;). For more on how Sunstein and Vermeule's moral obligation thesis fits into the gun control and crime debate, see infra Section V.B. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n19.&nbsp; See Kleck, Targeting Guns, supra note 14; Bronars &amp; Lott, supra note 14; Lott &amp; Mustard, supra note 14. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n20. &quot;&nbsp;Shall-issue&quot; laws refer to the requirement that states must (&quot;shall&quot;) issue a gun permit to anyone who meets the uniform requirements established by state law; currently, there are thirty-six &quot;shall-issue&quot; states. See Nat'l Rifle Ass'n, Right-to-Carry 2007, http://www.nraila.org//Issues/FactSheets/ Read.aspx?ID=18 (last visited Mar. 5, 2008); see also infra note 95 and accompanying text. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n21.&nbsp; John J. Donohue, The Impact of Concealed Carry Laws, in Evaluating Gun Policy, supra note 5, at 290; see also H. Richard Uviller, Virtual Justice: The Flawed Prosecution of Crime in America 95 (1996) (&quot;More handguns lawfully in civilian hands will not reduce deaths from bullets and cannot stop the predators from enforcing their criminal demands and expressing their lethal purposes with the most effective tool they can get their hands on.&quot;); Ayres &amp; Donohue, supra note 3 (finding the data do not support Lott's hypothesis); Hashem Dezhbakhsh &amp; Paul H. Rubin, Lives Saved or Lives Lost? The Effects of Concealed-Handgun Laws on Crime, 88 Am. Econ. Rev. 468, 468 (1998) (arguing that &quot;Lott and Mustard's findings are suspect&quot;); Mark Duggan, More Guns, More Crime, 109 J. Pol. Econ. 1086 (2001) (finding that increased gun ownership is strongly correlated with increased homicide rates); Jens Ludwig, Concealed-Gun-Carrying Laws and Violent Crime: Evidence from State Panel Data, 18 Int'l Rev. L. &amp; Econ. 239, 239 (1998) (&quot;My results suggest that shall-issue laws have resulted, if anything, in an increase in adult homicide rates.&quot;); Franklin Zimring &amp; Gordon Hawkins, Concealed Handguns: The Counterfeit Deterrent, Responsive Community, Spring 1997, at 46 (1997) (arguing that concealed weapons do not have a deterrent effect on crime). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n22.&nbsp; Donohue, supra note 21, at 325. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n23.&nbsp; Id. at 290. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n24.&nbsp; See Lott, supra note 14, at 141-44 (2003) (discussing the relationship between safe storage laws and accidental deaths due to firearms); David Klein et al., Some Social Characteristics of Young Gunshot Fatalities, 9 Accident Analysis &amp; Prevention 177, 181 (1977) (finding that guns kept for self-defense were responsible for &quot;most&quot; fatal gun accidents involving victims under the age of sixteen in Michigan between 1970 and 1975). Klein has also tied the notion of defensive gun use to lack of faith in the law enforcement system, finding that families kept loaded guns in the home where &quot;they had no confidence that the police offered them protection against neighborhood crime.&quot; David Klein, Societal Influences on Childhood Accidents, 12 Accident Analysis &amp; Prevention 275, 277 (1980). The connection between private gun ownership and distrust of law enforcement will be discussed further infra Part VI. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n25.&nbsp; See Kleck, Targeting Guns, supra note 14, at 287 (&quot;Previous studies failed to make a solid case for the ability of gun controls to reduce the total suicide rate.&quot;); Mark Duggan, Guns and Suicide, in Evaluating Gun Policy, supra note 5, at 41. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n26.&nbsp; See supra note 3 and accompanying text. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n27.&nbsp; See Gilmore v. Taylor, 508 U.S. 333, 359 (1993) (Blackmun, J., dissenting) (&quot;Despite its status as an affirmative defense, however, self-defense converts what is otherwise murder into justifiable homicide. In other words, the person who kills in self-defense, instead of being guilty of murder, is guilty of no offense at all.&quot;). See generally 1 Wayne R. LaFave, Substantive Criminal Law &sect; 6.4 (2d ed. 2003) (&quot;There are, of course, some situations where, though A intentionally kills or injures B, A is not guilty of murder or battery. Though he kills B, he may be guilty ... of no crime at all (e.g., when he is privileged to kill or injure B in self-defense, or to prevent B's commission of a felony).&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n28.&nbsp; See, e.g., test accompanying supra note 3 (recounting the story of the trick-or-treating Japanese exchange student). Of course, erroneous shootings can occur at the hands of police as well as private citizens; consider the example of Amadou Diallo, the unarmed Guinean immigrant who was shot forty-one times when four police officers mistook his wallet for a gun. See Robert D. McFadden, Four Officers Indicted for Murder in Killing of Diallo, Lawyer Says, N.Y. Times, Mar. 26, 1999, at B6. The Diallo case can be seen to counter the point that erroneous shootings are the product of arming citizens particularly. This argument will be discussed in further detail infra Part VI. For now, I merely use the case to illustrate the point that even with good intentions and training, people can make mistakes when shooting in self-defense. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n29.&nbsp; Dan Kahan and Donald Braman have also responded to the guns and crime debate by locating battles over gun control in questions of risk toleration; they sparked a debate with Philip Cook and Jens Ludwig over their thesis. See Dan M. Kahan &amp; Donald Braman, More Statistics, Less Persuasion: A Cultural Theory of Gun-Risk Perception, 151 U. Pa. L. Rev. 1291 (2003) [hereinafter Kahan &amp; Braman, More Statistics, Less Persuasion]; Philip J. Cook &amp; Jens Ludwig, Fact-Free Gun Policy?, 151 U. Pa. L. Rev. 1329 (2003); Dan M. Kahan &amp; Donald Braman, Caught in the Cross-Fire: A Defense of the Cultural Theory of Gun-Risk Perception, 151 U. Pa. L. Rev. 1395 (2003) [herinafter, Kahan &amp; Brama, Caught in the Cross-Fire]; see also Donald Braman et al., Modeling Facts, Culture, and Cognition in the Gun Debate, 18 Soc. Just. Res. 203 (2005) (further responding to critics of their risk-perception thesis). Kahan and Braman argue - and Cook and Ludwig refute their claim - that whether or not one supports gun control is largely a result of whether one believes in the risk of &quot;insufficient regulation [of guns that] will make citizens vulnerable to deliberate or accidental shootings,&quot; or &quot;excessive regulation [of guns that] will leave citizens unable to defend themselves against violent predation.&quot; Kahan &amp; Braman, More Statistics, Less Persuasion, supra, at 1299. This conclusion by individuals, they posit, is largely the result of cultural values. Id. While both the Kahan and Braman papers and this Note address risks associated with gun laws, their focus on the cultural context of risk perception is quite different from the notion of error risk I examine. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n30.&nbsp; See generally Douglas Allchin, Error Types, 9 Persp. on Sci. 38 (2001). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n31.&nbsp; See In re Winship, 397 U.S. 358, 370-71 (1970) (Harlan, J., concurring). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n32.&nbsp; This concept does not assume that it is always or ever the correct decision (on a moral basis) for a person to shoot a perceived attacker. Any such assumption implies a normative evaluation of whether guns should or should not be used in self-defense. That evaluation is beyond the scope of this Note. Rather, I focus on the error-risk implications of any decision to use a gun in self-defense as they fit into the larger framework of error tolerance in the criminal justice system. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n33.&nbsp; Cf.  Winship, 397 U.S. at 370-71 (&quot;The trier of fact will sometimes, despite his best efforts, be wrong in his factual conclusions. In a lawsuit between two parties, a factual error can make a difference in one of two ways.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n34.&nbsp;&nbsp;Speiser v. Randall, 357 U.S. 513, 525 (1958).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n35.&nbsp; 4 William Blackstone, Commentaries 358. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n36.&nbsp; The 10:1 ratio Blackstone expressed has gained such prominence in American legal thinking, however, that it has become known as the &quot;Blackstone ratio.&quot; William S. Laufer, The Rhetoric of Innocence, 70 Wash. L. Rev. 329, 333 n.17 (1995).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n37.&nbsp; For a wonderful explanation of the &quot;n guilty men&quot; principle and its historical origins, see Alexander Volokh, n Guilty Men, 146 U. Penn. L. Rev. 173 (1997); see also Coffin v. United States, 156 U.S. 432, 453-56 (1895) (tracing the history of the presumption of innocence standard). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n38.&nbsp; Volokh, supra note 37. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n39.&nbsp; The Coffin Court collects and describes a number of examples of this historical concern. See Coffin, 156 U.S. at 454-55. For example, the biblical story of the city of Sodom includes a promise by the Lord to Abraham that he would not destroy the wicked city and all its inhabitants if ten righteous men would be destroyed in the process. Genesis 18:23-32. Greenleaf notes that &quot;the rule of the Roman law was in the same spirit,&quot; holding that it was better to let the crime of a guilty person go unpunished than to condemn the innocent. 3 Greenleaf on Evidence &sect; 29 n.4 (quoting Dig. L. 48, tit. 19, 1.5). John Fortescue expressed the sentiment even more dramatically: &quot;Indeed, one would much rather that twenty guilty persons should escape the punishment of death than that one innocent person should be condemned and suffer capitally.&quot; John Fortescue, De Laudibus Legum Angliae 94 (Frederick Gregor trans., 1984) (1874). Finally, demonstrating that this principle was carried across the Atlantic to the New Republic, Benjamin Franklin remarked in 1785 &quot;that it is better [one hundred] guilty Persons should escape than that one innocent Person should suffer.&quot; Letter from Benjamin Franklin to Benjamin Vaughan (Mar. 14, 1785), in 9 The Writings of Benjamin Franklin 291, 293 (Alfred H. Smyth ed. 1906). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n40.&nbsp; Volokh, supra note 37; see also Coffin, 156 U.S. at 453-56 (discussing the historical evidence that &quot;the principle that there is a presumption of innocence in favor of the accused is the undoubted law, axiomatic and elementary, and its enforcement lies at the foundation of the administration of our criminal law&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n41.&nbsp; In Coffin, the Supreme Court pointed to an anecdote from ancient Rome which illustrates this construction:</SPAN></P>
+<P CLASS="c33"><BR><SPAN CLASS="c31">&nbsp;<BR>Numerius, the governor of Narbonensis, was on trial before the Emperor, and, contrary to the usage in criminal cases, the trial was public. Numerius contented himself with denying his guilt, and there was not sufficient proof against him. His adversary, Delphidius, &quot;a passionate man,&quot; seeing that the failure of the accusation was inevitable, could not restrain himself, and exclaimed, &quot;Oh, illustrious Caesar! if it is sufficient to deny, what hereafter will become of the guilty?&quot; to which Julian replied, &quot;If it suffices to accuse, what will become of the innocent?&quot;<BR>&nbsp;<BR>&nbsp;Coffin, 156 U.S. at 455 (quoting Rerum Gestarum lib. 18, c. 1). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n42.&nbsp; See Speiser v. Randall, 357 US. 513, 526 (1958) (&quot;Due process commands that no man shall lose his liberty unless the Government has borne the burden of ... convincing the factfinder of his guilt.&quot;) </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n43.&nbsp;&nbsp;Coffin, 156 U.S. at 453.&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n44.&nbsp;&nbsp;Id. at 454 (collecting sources). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n45.&nbsp;&nbsp;In re Winship, 397 U.S. 358, 363 (1970).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n46.&nbsp;&nbsp;Id. at 364; see also Speiser, 357 U.S. at 525-26 (discussing the role of due process requirements in preventing error); Holland v. United States, 348 U.S. 121, 138 (1954) (requiring that, even in a tax case, &quot;the Government must still prove every element of the offense beyond a reasonable doubt though not to a mathematical certainty&quot;); Leland v. Oregon, 343 U.S. 790, 795 (1952) (holding that the Constitution requires that the government has the burden of proving guilt beyond a reasonable doubt, though states have latitude to decide who has the burden of proof on questions of sanity); Brinegar v. United States, 338 U.S. 160, 174 (1949) (&quot;Guilt in a criminal case must be proved beyond a reasonable doubt ... .&quot;); Wilson v. United States, 232 U.S. 563, 569-70 (1914) (upholding jury instructions that guilt must be established beyond a reasonable doubt); Holt v. United States, 218 U.S. 245, 253 (1910) (same); Davis v. United States, 160 U.S. 469, 488 (1895) (discussing the role of the reasonable doubt requirement in light of a claim of insanity); Miles v. United States, 103 U.S. 304, 312 (1881) (&quot;The evidence upon which a jury is justified in returning a verdict of guilty must be sufficient to produce a conviction of guilt, to the exclusion of all reasonable doubt.&quot;); cf.  Coffin, 156 U.S. at 457-62 (discussing the relationship between the presumption of innocence and the requirement of proof beyond a reasonable doubt). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n47.&nbsp;&nbsp;Brinegar, 338 U.S. at 174; see also Winship, 397 U.S. at 363-64 (describing &quot;the good name and freedom of every individual&quot; as &quot;interests of immense importance&quot; militating against the &quot;condemn[ation of] a man for commission of a crime when there is reasonable doubt about his guilt&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n48.&nbsp;&nbsp;Winship, 397 U.S. at 363.&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n49.&nbsp; As with the presumption of innocence discussed above, if the defendant had the burden of proof, the risk of false positives would increase. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n50.&nbsp; If the standard were &quot;any doubt&quot; rather than reasonable doubt, it would likely be virtually impossible to get a conviction. As an interesting comparison, in 2005, Massachusetts Governor (and future unsuccessful contender for the Republican presidential nomination) Mitt Romney advocated the adoption of a law that would allow the death penalty in Massachusetts only in circumstance where a jury would convict on a &quot;no doubt&quot; standard. Among the opposition to the bill were those who felt the standard (and other restrictions in the bill) were &quot;so narrow it wouldn't cover much.&quot; Drake Bennett, Reasonable Doubt, Boston Globe, May 8, 2005, at K5. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n51.&nbsp;&nbsp;Winship, 397 U.S. at 369 (Harlan, J., concurring). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n52.&nbsp;&nbsp;Id. at 370.&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n53.&nbsp;&nbsp;Id. at 371.&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n54.&nbsp; Lawrence B. Solum, You Prove It! Why Should I?, 17 Harv. J.L. &amp; Pub. Pol'y 691, 701 (1994).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n55.&nbsp; See Winship, 397 U.S. at 363-64;&nbsp;Brinegar v. United States, 338 U.S. 160, 174 (1949).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n56.&nbsp;&nbsp;Winship, 397 U.S. at 364.&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n57.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n58.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n59.&nbsp; See infra Part V. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n60.&nbsp; Christo Lassiter, The O.J. Simpson Verdict: A Lesson in Black and White, 1 Mich. J. Race &amp; L. 69, 118 (1996).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n61.&nbsp; N.R. Kleinfield, Not Guilty: The Moment; A Day (10 Minutes of It) the Country Stood Still, N.Y. Times, Oct. 4, 1995, at A1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n62.&nbsp; Cathleen Decker, Faith in Justice System Drops, L.A. Times, Oct. 8, 1995, at S2; see also Janice Nadler, Flouting the Law, 83 Tex. L. Rev. 1399, 1426 (2005) (evaluating the response of citizens to perceived injustice in the enforcement of the law); Cathleen Decker &amp; Sheryl Stolberg, Half of Americans Disagree with Verdict, L.A. Times, Oct. 4, 1995, at A1. Nadler also calls attention to a similar response in the wake of the acquittal of the police officers who were videotaped beating Rodney King. Nadler, supra, at 1426. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n63.&nbsp; See, e.g., Alan Dershowitz, Reasonable Doubts: The O.J. Simpson Case and the Criminal Justice System (1996); Lassiter, supra note 60, at 110 (&quot;In the collective minds of the jurors, the defense proved the existence of reasonable doubt by demonstrating two major faults with the prosecution's case.&quot;); Nadler, supra note 62, at 1433 (noting that, for those who believed Simpson to be guilty, &quot;there is little solace in the prospect that the jury held reasonable doubts about the prosecution having proved every element of each crime - the distributive justice worry overwhelms procedural justice concerns in this context&quot;); Editorial, Unreasonable Doubt. O.J. Simpson Acquittal, New Republic, Oct. 23, 1995, at 7. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n64.&nbsp; O.J. Simpson's was an atypical case. Because of the fame, fortune, and particularly the race of the accused, the trial took on a social significance above and beyond the verdict itself. Simpson's race (and the racism demonstrated by the detectives in the case) may be the more accurate explanation for his acquittal than reasonable doubt, a speculation that further fuels the social controversy the trial stoked on its own. Devon W. Carbado, The Construction of O.J. Simpson as a Racial Victim, 32 Harv. C.R.-C.L. L. Rev. 49, 101 (1997) (&quot;The Simpson case came to symbolize police excess and criminal injustice, and Simpson came to represent &quot;another Black man being put down by the system.'&quot;); Linda Chavez, Race, Not Justice, Wins Out in Verdict, USA Today, Oct. 4, 1995, at 15A; Michael Miller, Analysts Say Race, Not Evidence Swayed Jury, Reuters, Oct. 3, 1995. Furthermore, because of the polarizing nature of the trial and verdict, one can imagine that public reaction would have been similarly intense had the jury gone the other way. Paradoxically, it is hard to find an example at such public outcry against a purportedly erroneous conviction precisely because the system is structured to minimize such episodes. (Of course, examples of allegedly or actually erroneous convictions abound - one notable example is the Scottsboro Boys in the 1930s. See Dan T. Carter, Scottsboro: A Tragedy of the American South (1979)). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n65.&nbsp; The standard in civil cases is generally &quot;preponderance of the evidence,&quot; which has been understood to mean greater than fifty percent or, in other words, more likely than not. See Emily L. Sherwin &amp; Kevin M. Clermont, A Comparative View of Standards of Proof, 50 Am. J. Comp. Law 243 (2002). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n66.&nbsp; Stephanie Simon, Simpson Liable in Slayings; Compensatory Damages Put at $ 8.5 Million, L.A. Times, Feb. 5, 1997, at A1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n67.&nbsp; At the outset, it is important to note that the rule of self-defense in both criminal and tort law is a rule that is defined by each state. See, e.g., Martin v. Ohio, 480 U.S. 228, 230 (1987) (deferring to Ohio courts and Code definition of self-defense). Accordingly, it can vary by jurisdiction. All discussion in this Part, then, is general - a survey of the various interstate nuances in self-defense law is neither possible nor necessary in this Note. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n68.&nbsp; 2 LaFave, supra note 27, &sect; 10.4. For more on self-defense, see generally Model Penal Code &sect; 3.04 cmt. (1985); A.J. Ashworth, Self-Defence and the Right to Life, 34 Cambridge L.J. 282 (1975); Joseph H. Beale, Homicide in Self-Defence, 3 Colum. L. Rev. 526 (1903); Joseph H. Beale, Retreat from a Murderous Assault, 16 Harv. L. Rev. 567 (1903) (discussing early American doctrine on the duty to retreat); Claire Oakes Finkelstein, On the Obligation of the State to Extend a Right of Self-Defense to Its Citizens, 147 U. Pa. L. Rev. 1361 (1999); Rollin M. Perkins, Self-Defense Re-examined, 1 UCLA L. Rev. 133 (1954). The availability of self-defense as a justification for the torts of assault and battery is based on the same principle as the availability of self-defense as a justification in criminal law: the defense in both cases exempts the defendant from liability to which he otherwise might be subject on the ground that his use of force to defend himself should be legally permissible. See Restatement (Second) of Torts&sect;&sect;63, 65, 67 (1965); William Lloyd Prosser &amp; W. Page. Keeton, Torts &sect; 19 (5th ed. 1984). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n69.&nbsp; Self-defense is also a privilege in tort law and is defined similarly. Restatement (Second) of Torts &sect; 65 (1965). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n70.&nbsp; See Wayne R. LaFave, Criminal Law &sect; 10.4 (4th ed. 2003) (&quot;It is never reasonable to use deadly force against his nondeadly attack.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n71.&nbsp; The &quot;Castle Doctrine&quot; was first defined in Pell v. State, 122 So. 110, 116 (Fla. 1929). For more on the Castle Doctrine, see notes 103-106 and accompanying text. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n72.&nbsp; Model Penal Code &sect; 3.04(2)(A)(ii)(a) (1985) (permitting the use of force if &quot;the actor is a public officer acting in the performance of his duties or a person lawfully assisting him therein or a person making or assisting in a lawful arrest&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n73.&nbsp; Id. &sect; 3.04(2)(B)(ii). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n74.&nbsp; Id. &sect; 3.04(2)(B)(ii)(a). There are signs, however, that the duty to retreat is fading from our criminal justice system. Despite incorporation in the Model Penal Code, it is the rule only in a minority of jurisdictions, and a least one commentator has suggested that &quot;the retreat rule seems likely to wither.&quot; George Dix, Justification: Self-Defense, in Encyclopedia of Crime and Justice 948-49 (Sanford H. Kadish ed., 3d ed. 1983); see also LaFave, supra note 70, &sect; 10.4 (&quot;There is a dispute as to whether one threatened with a deadly attack must retreat, if he can safely do so, before resorting to deadly force, except that it is agreed that ordinarily he need not retreat from his home or place of business.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n75.&nbsp; Cf.  In re Winship, 397 U.S. 358, 370 (1970) (Harlan, J., concurring) (&quot;The trier of fact will sometimes, despite his best efforts, be wrong in his factual conclusions.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n76.&nbsp; See, e.g., Model Penal Code &sect; 3.04(1), (2)(B) (asserting that the use of force, including deadly force, is only justifiable when &quot;the actor believes that such force is immediately necessary to protect himself&quot;). Some states make the flexibility provided by the reasonableness requirement more explicit, excusing force even where the actor's &quot;belief is mistaken,&quot; which translates to a test of reasonableness. See, e.g., N.D. Cent. Code &sect; 12.1-05-08; State v. Leidholm, 334 N.W.2d 811 (N.D. 1983).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n77.&nbsp; George P. Fletcher, A Crime of Self Defense: Bernhard Goetz and the Law on Trial 19-27 (1988); see also Kenneth W. Simons, Self-Defense, Mens Rea, and Bernhard Goetz, 89 Colum. L. Rev. 1179, 1181 (1989) (book review). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n78.&nbsp;&nbsp;Mesa v. California, 489 U.S. 121, 127 (1989) (&quot;The successful legal defense of &quot;self-defense' depends on the truth of two distinct elements: that the act committed was, in a legal sense, an act of self-defense, and that the act was justified, that is, warranted under the circumstances.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n79.&nbsp; See Fletcher, supra note 77, at 39-41 (&quot;Reasonableness ... distinguishes Americans from our European brethren, who are still committed, at least nominally, to the singular truth of the law as the Right and the True.&quot;). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n80.&nbsp; See supra Part III. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n81.&nbsp; Of course, this inverse makes sense; in both ways, the reasonableness standard cuts in favor of the criminal defendant. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n82.&nbsp; See supra note 3 and accompanying text. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n83.&nbsp; See State v. Leidholm, 334 N.W.2d 811 (N.D. 1983) (discussing the difference between objective and subjective standards in self-defense cases); Fletcher, supra note 77, at 41-43 (discussing the difference between the objective and subjective standards and tracing the history of each in the New York courts). One commentator reasonably asks whether even an objective test is actually objective: &quot;Should the jury examine whether a reasonable person who has been victimized before would react as [the self-defender] did? If they should, what should they consider? ... At what point does the &quot;reasonable crime victim' become a &quot;reasonable paranoid' who does not deserve a defense?&quot; Simons, supra note 77, at 1189. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n84.&nbsp; Simons, supra note 77, at 1185-86. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n85.&nbsp;&nbsp;Restatement (Second) of Torts&sect;&sect;63, 65 (1965); 1 LaFave, supra note 27, &sect; 3.4(e). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n86.&nbsp;&nbsp;Martin v. Ohio, 480 U.S. 228, 233-34 (1987) (citing In re Winship, 397 U.S. 358, 364 (1970)).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n87.&nbsp; 2 LaFave, supra note 27, &sect; 10.4(a). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n88.&nbsp; Id. &sect; 7.1(b). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n89.&nbsp; Paul Robinson, Criminal Law Defenses 69-73 (1984). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n90.&nbsp; The change in justified defensive gun uses might be measured empirically - do defensive gun uses increase in states with RTC laws? No statistical evidence could be found on this point, but it is hard to imagine the answer could be anything other than yes. Another interesting question that might be harder to answer empirically is whether the defense of self-defense is more successfully used to achieve acquittal or avoid charges entirely in right-to-carry states. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n91.&nbsp; Federal law does have a major role to play in gun rights. Two major federal laws - the ban on felons carrying guns, 18 U.S.C. &sect; 922(g)(1) (2000), and the ban on juvenile gun possession, 18 U.S.C. &sect; 922(x) (2000) - affect millions of Americans. In addition, federal law prohibits gun possession by those under felony indictment, 18 U.S.C. &sect; 922(n) (2000); anyone convicted in any court of even misdemeanor domestic violence, 18 U.S.C. &sect; 922(g)(9) (2000); drug addicts, 18 U.S.C. &sect; 922(g)(3) (2000); and other categories of people. In addition, federal law regulates various aspects of the sale and transfer of firearms. See Nat'l Rifle Ass'n, A Citizen's Guide to Federal Firearms Laws, http://www.nraila.org/GunLaws/Federal/Read.aspx?id=60 (last visited Mar. 5, 2008). Until recently, federal law also banned Assault Weapons, 18 U.S.C. &sect; 922(v), (w) (2000), but that prohibition lapsed in 2004. Nonetheless, for the category of those legally eligible to possess firearms under federal law, states are the source of the vast majority of regulations concerning how and where those guns may be carried. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n92.&nbsp; Jon S. Vernick &amp; Lisa M. Hepburn, State and Federal Gun Laws: Trends for 1970-99, in Evaluating Gun Policy, supra note 5, at 345, 353. Vernick and Hepburn's analysis of guns laws has been called &quot;the best scholarly presentation and analysis of recent state gun laws.&quot; Carter, supra note 12, at 167. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n93.&nbsp; Nat'l Rifle Ass'n, supra note 20. Before 2003, Vermont was the only non-permit state. Vernick &amp; Hepburn, supra note 92, at 345, tbl.9A-5. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n94.&nbsp; Nat'l Rifle Ass'n, supra note 20. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n95.&nbsp; Vernick &amp; Hepburn, supra note 92, at 357. These states are Arizona, Arkansas, Colorado, Florida, Georgia, Idaho, Indiana, Kansas, Kentucky, Louisiana, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Washington, West Virginia, and Wyoming. Alaska is also included in this number because it has a shall-issue requirement for purposes of reciprocity with other states. Nat'l Rifle Ass'n, supra note 20. Vernick and Hepburn place the number of shall-issue states at twenty-eight, not including the non-permit state Vermont (before Alaska passed its no-permit law in 2003). Vernick &amp; Hepburn, supra note 92, at 345, tbl.9A-5. The difference can be accounted for by new laws (or different characterizations of existing laws) in Colorado, Kansas, Michigan, Minnesota, Nebraska, New Mexico, and Ohio. Right-to-carry laws were passed in Kansas and Nebraska in 2006; in Ohio in 2004; and in Colorado, Minnesota, New Mexico, and Missouri in 2003. Nat'l Rifle Ass'n, supra note 20. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n96.&nbsp; Vernick &amp; Hepburn, supra note 92, at 357. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n97.&nbsp; Nat'l Rifle Ass'n, supra note 20. These states are Alabama, California, Connecticut, Delaware, Hawaii, Iowa, Maryland, Massachusetts, New Jersey, New York, and Rhode Island. Id. Again, Vernick and Hepburn put a different number of states - fourteen - in this category, because of new laws (or different characterizations of existing laws) in Colorado, Michigan, and Minnesota. Vernick &amp; Hepburn, supra note 92, at 345, tbl.9A-5. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n98.&nbsp; Nat'l Rifle Ass'n, supra note 20. These states are Illinois and Wisconsin. Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n99.&nbsp; Clayton E. Kramer &amp; David B. Kopel, &quot;Shall Issue&quot;: The New Wave of Concealed Handgun Permit Laws, 62 Tenn. L. Rev. 679, 681 (1995).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n100.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n101.&nbsp; Vernick &amp; Hepburn, supra note 92, at 345, 357, tbl.9A-5. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n102.&nbsp; These states include Colorado (moving away from its previous &quot;restrictively-administered discretionary-issue system[]&quot;), Kansas, Iowa (&quot;by fairly administering its discretionary-issue system&quot;), Ohio, Minnesota (moving away from its previous &quot;restrictively-administered discretionary-issue system[]&quot;), Missouri, Nebraska, and New Mexico. Nat'l Rifle Ass'n, supra note 20. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n103.&nbsp; See supra note 71 for further reference to the Castle Doctrine. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n104.&nbsp; Nat'l Rifle Ass'n, This Train Keeps a Rollin'; Castle Doctrine Sweeps America, http://www.nraila.org//Issues/Articles/Read.aspx?ID=199 (last visited Mar. 10, 2008). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n105.&nbsp; Abby Goudnough, Florida Expands Right to Use Deadly Force in Self-Defense, N.Y. Times, Apr. 27, 2005, at A18. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n106.&nbsp; Nat'l Rifle Ass'n, supra note 104. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n107.&nbsp; See Press Release, Office of Tex. Gov. Rick Perry, Gov. Perry Signs Law Allowing Texans To Protect Themselves (Mar. 27, 2007), http://www.governor. state.tx.us/divisions/press/pressreleases/PressRelease.2007-03-27.0601. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n108.&nbsp; H.C. Brearley, Homicide in the United States 76 (1932). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n109.&nbsp; Kleck, Keeping, Carrying, and Shooting Guns for Self-Protection, supra note 6, at 207. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n110.&nbsp; Id. at 207-08. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n111.&nbsp; John M. Broder, 32 Shot Dead in Virginia; Worst U.S. Gun Rampage: Suspect Is Killed, N.Y. Times, Apr. 17, 2007, at A1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n112.&nbsp; Ted Nugent, Gun-Free Zones Are Recipe for Disaster, CNN.com, Apr. 20, 2007, http://www.cnn.com/2007/US/04/19/commentary.nugent/index.html. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n113.&nbsp; Jay Root, Allow Concealed Handguns Anywhere in Texas, Ft. Worth Star-Telegram, May 1, 2007, at B1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n114.&nbsp; Nugent, supra note 112. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n115.&nbsp; Lott, supra note 12, at 1-2. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n116.&nbsp; See Jane Fritsch, The Diallo Verdict: The Overview; 4 Officers in Diallo Shooting Are Acquitted of All Charges, N.Y. Times, Feb. 26, 2000, at A1. In another ongoing controversy, New York police officers shot a man named </SPAN><SPAN CLASS="c32">Sean Bell</SPAN><SPAN CLASS="c31"> in 2006; whether that shooting was legally justified remains a subject of controversy. Dianne Cardwell &amp; Sewell Chan, Bloomberg Calls 50 Shots by Police &quot;Unacceptable,&quot; N.Y. Times, Nov. 28, 2006, at A1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n117.&nbsp; Kleck, The Frequency of Defensive Gun Use, supra note 5, at 152. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n118.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n119.&nbsp; Kleck, The Nature of Defensive Gun Use, supra note 4, at 252. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n120.&nbsp; Id. at 252-53. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n121.&nbsp; See supra notes 35-40 and accompanying text. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n122.&nbsp; Sunstein &amp; Vermeule, supra note 18, at 705. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n123.&nbsp; The impetus for Sunstein and Vermeule's argument is, among other studies, a national survey that suggests that each execution may prevent some eighteen additional murders. Id. at 706 (citing Hashem Dezhbakhsh et al., Does Capital Punishment Have a Deterrent Effect? New Evidence from Postmoratorium Panel Data, 5 Am. L. &amp; Econ. Rev. 344 (2003)). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n124.&nbsp; See supra notes 14-23 and accompanying text. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n125.&nbsp;&nbsp;In re Winship, 397 U.S. 358, 371 (1970) (Harlan, J., concurring). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n126.&nbsp; Sunstein &amp; Vermeule, supra note 18, at 707, 737-40. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n127.&nbsp; Id. at 705. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n128.&nbsp; Cook &amp; Ludwig, supra note 5, at 2. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n129.&nbsp; Id. at 10. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n130.&nbsp;&nbsp;Parker v. District of Columbia, 478 F.3d 370 (D.C. Cir. 2007), cert. granted sub nom.  District of Columbia v. Heller, 128 S. Ct. 645 (2007).&nbsp;</SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n131.&nbsp; Id. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n132.&nbsp;&nbsp;Parker, 478 F.3d at 395. For an interesting description of Parker and Heller in the context of the evolving academic debate around the individual rights versus collective rights interpretations of the Second Amendment, see Adam Liptak, A Liberal Case for the Individual Right to Own Guns Helps Sway the Federal Judiciary, N.Y. Times, May 7, 2007, at A18. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n133.&nbsp; Indeed, as of February 25, 2008, sixty-seven amicus briefs had been filed in this case, representing a wide range of advocacy groups, activists, attorneys, and politicians. See Docket for 07-290, http://www.supremecourtus.gov/docket/07-290.htm (last visited Mar. 10, 2008). </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n134.&nbsp; See, e.g., Laura Mansnerus, Panel Seeks To End Death Penalty for New Jersey, N.Y. Times, Jan. 3, 2007 at A1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c9"><BR><BR></P>
+</DIV>
+<DIV CLASS="c5"><P CLASS="c30"><SPAN CLASS="c31">n135.&nbsp; See, e.g., James Risen &amp; Eric Lichtblau, Concerns Raised on Wider Spying Under New Law, N.Y. Times, Aug. 19, 2007, at A1. </SPAN></P>
+</DIV>
+<DIV CLASS="c5"></DIV>
+<!-- Hide XML section from browser
+</DOCFULL>
+</DOC> -->
